@@ -103509,9 +103509,39 @@
     "iban_length": 21,
     "banks": [
       {
+        "bank_code": "08801",
+        "swift_bic": "BALPLI22",
+        "bank_name": "Bank Alpinum AG"
+      },
+      {
+        "bank_code": "08811",
+        "swift_bic": "BFRILI22",
+        "bank_name": "Bank Frick & Co. AG"
+      },
+      {
         "bank_code": "08667",
-        "swift_bic": "EFGBLI22XXX",
+        "swift_bic": "EFGBLI22",
         "bank_name": "EFG Bank von Ernst AG"
+      },
+      {
+        "bank_code": "08814",
+        "swift_bic": "SFBALI22",
+        "bank_name": "Banque Havilland (Liechtenstein) AG"
+      },
+      {
+        "bank_code": "08806",
+        "swift_bic": "SERBLI22",
+        "bank_name": "Kaiser Partner Privatbank AG"
+      },
+      {
+        "bank_code": "08815",
+        "swift_bic": "UNIVLI22",
+        "bank_name": "Union Bank AG"
+      },
+      {
+        "bank_code": "08810",
+        "swift_bic": "BLFLLI2",
+        "bank_name": "LGT Bank Ltd."
       },
       {
         "bank_code": "08800",
@@ -103519,18 +103549,18 @@
         "bank_name": "Liechtensteinische Landesbank AG"
       },
       {
-        "bank_code": "08801",
-        "swift_bic": "BALPLI22XXX",
-        "bank_name": "Bank Alpinum AG"
-      },
-      {
         "bank_code": "08802",
-        "swift_bic": "NBANLI22XXX",
+        "swift_bic": "NBANLI22",
         "bank_name": "NEUE BANK AG"
       },
       {
+        "bank_code": "08813",
+        "swift_bic": "RAIBLI22",
+        "bank_name": "Raiffeisen Privatbank Liechtenstein AG"
+      },
+      {
         "bank_code": "08803",
-        "swift_bic": "HYIBLI22XXX",
+        "swift_bic": "HYIBLI22",
         "bank_name": "Valartis Bank (Liechtenstein) AG"
       },
       {
@@ -103539,39 +103569,9 @@
         "bank_name": "VP Bank Ltd."
       },
       {
-        "bank_code": "08806",
-        "swift_bic": "SERBLI22XXX",
-        "bank_name": "Kaiser Partner Privatbank AG"
-      },
-      {
-        "bank_code": "08810",
-        "swift_bic": "BLFLLI2",
-        "bank_name": "LGT Bank Ltd."
-      },
-      {
-        "bank_code": "08811",
-        "swift_bic": "BFRILI22XXX",
-        "bank_name": "Bank Frick & Co. AG"
-      },
-      {
         "bank_code": "08812",
-        "swift_bic": "VOAGLI22XXX",
+        "swift_bic": "VOAGLI22",
         "bank_name": "Volksbank AG"
-      },
-      {
-        "bank_code": "08813",
-        "swift_bic": "RAIBLI22XXX",
-        "bank_name": "Raiffeisen Privatbank Liechtenstein AG"
-      },
-      {
-        "bank_code": "08814",
-        "swift_bic": "SFBALI22XXX",
-        "bank_name": "Banque Havilland (Liechtenstein) AG"
-      },
-      {
-        "bank_code": "08815",
-        "swift_bic": "UNIVLI22XXX",
-        "bank_name": "Union Bank AG"
       }
     ]
   },
@@ -107274,117 +107274,122 @@
     "banks": [
       {
         "bank_code": "AABN",
-        "swift_bic": "AABNNL2AXXX",
+        "swift_bic": "AABNNL2A",
         "bank_name": "ABN AMRO Trading as Kendu"
       },
       {
         "bank_code": "ABNA",
-        "swift_bic": "ABNANL2AXXX",
+        "swift_bic": "ABNANL2A",
         "bank_name": "ABN AMRO BANK"
       },
       {
+        "bank_code": "FTSB",
+        "swift_bic": "ABNANL2A",
+        "bank_name": "ABN AMRO (ex FORTIS)"
+      },
+      {
         "bank_code": "ABNC",
-        "swift_bic": "ABNCNL2AXXX",
+        "swift_bic": "ABNCNL2A",
         "bank_name": "ABN AMRO Clearing Bank N.V."
       },
       {
         "bank_code": "ADYB",
-        "swift_bic": "ADYBNL2AXXX",
+        "swift_bic": "ADYBNL2A",
         "bank_name": "ADYEN"
       },
       {
         "bank_code": "AEGO",
-        "swift_bic": "AEGONL2UXXX",
+        "swift_bic": "AEGONL2U",
         "bank_name": "AEGON BANK"
       },
       {
         "bank_code": "ANDL",
-        "swift_bic": "ANDLNL2AXXX",
+        "swift_bic": "ANDLNL2A",
         "bank_name": "ANADOLUBANK"
       },
       {
         "bank_code": "ARBN",
-        "swift_bic": "ARBNNL22XXX",
+        "swift_bic": "ARBNNL22",
         "bank_name": "ACHMEA BANK"
       },
       {
         "bank_code": "ARSN",
-        "swift_bic": "ARSNNL21XXX",
+        "swift_bic": "ARSNNL21",
         "bank_name": "ARGENTA SPAARBANK"
       },
       {
         "bank_code": "ASNB",
-        "swift_bic": "ASNBNL21XXX",
+        "swift_bic": "ASNBNL21",
         "bank_name": "ASN BANK"
       },
       {
         "bank_code": "ATBA",
-        "swift_bic": "ATBANL2AXXX",
+        "swift_bic": "ATBANL2A",
         "bank_name": "AMSTERDAM TRADE BANK"
       },
       {
         "bank_code": "BCDM",
-        "swift_bic": "BCDMNL22XXX",
+        "swift_bic": "BCDMNL22",
         "bank_name": "BANQUE CHAABI DU MAROC"
       },
       {
         "bank_code": "BCIT",
-        "swift_bic": "BCITNL2AXXX",
+        "swift_bic": "BCITNL2A",
         "bank_name": "INTESA SANPAOLO"
       },
       {
         "bank_code": "BICK",
-        "swift_bic": "BICKNL2AXXX",
+        "swift_bic": "BICKNL2A",
         "bank_name": "BINCKBANK"
       },
       {
         "bank_code": "BINK",
-        "swift_bic": "BINKNL21XXX",
+        "swift_bic": "BINKNL21",
         "bank_name": "BINCKBANK, PROF"
       },
       {
         "bank_code": "BITS",
-        "swift_bic": "BITSNL2AXXX",
+        "swift_bic": "BITSNL2A",
         "bank_name": "BITSAFE PAYMENTS"
       },
       {
         "bank_code": "BKCH",
-        "swift_bic": "BKCHNL2RXXX",
+        "swift_bic": "BKCHNL2R",
         "bank_name": "BANK OF CHINA"
       },
       {
         "bank_code": "BKMG",
-        "swift_bic": "BKMGNL2AXXX",
+        "swift_bic": "BKMGNL2A",
         "bank_name": "BANK MENDES GANS"
       },
       {
         "bank_code": "BLGW",
-        "swift_bic": "BLGWNL21XXX",
+        "swift_bic": "BLGWNL21",
         "bank_name": "BLG WONEN"
       },
       {
         "bank_code": "BMEU",
-        "swift_bic": "BMEUNL21XXX",
+        "swift_bic": "BMEUNL21",
         "bank_name": "BMCE EUROSERVICES"
       },
       {
         "bank_code": "BNDA",
-        "swift_bic": "BNDANL2AXXX",
+        "swift_bic": "BNDANL2A",
         "bank_name": "BRAND NEW DAY BANK"
       },
       {
         "bank_code": "BNGH",
-        "swift_bic": "BNGHNL2GXXX",
+        "swift_bic": "BNGHNL2G",
         "bank_name": "BANK NEDERLANDSE GEMEENTEN"
       },
       {
         "bank_code": "BNPA",
-        "swift_bic": "BNPANL2AXXX",
+        "swift_bic": "BNPANL2A",
         "bank_name": "BNP PARIBAS"
       },
       {
         "bank_code": "BOFA",
-        "swift_bic": "BOFANLNXXXX",
+        "swift_bic": "BOFANLNX",
         "bank_name": "BANK OF AMERICA"
       },
       {
@@ -107394,232 +107399,227 @@
       },
       {
         "bank_code": "BOTK",
-        "swift_bic": "BOTKNL2XXXX",
+        "swift_bic": "BOTKNL2X",
         "bank_name": "MUFG BANK"
       },
       {
         "bank_code": "BUNQ",
-        "swift_bic": "BUNQNL2AXXX",
+        "swift_bic": "BUNQNL2A",
         "bank_name": "BUNQ"
       },
       {
         "bank_code": "CHAS",
-        "swift_bic": "CHASNL2XXXX",
+        "swift_bic": "CHASNL2X",
         "bank_name": "JPMORGAN CHASE"
       },
       {
         "bank_code": "CITC",
-        "swift_bic": "CITCNL2AXXX",
+        "swift_bic": "CITCNL2A",
         "bank_name": "CITCO BANK"
       },
       {
         "bank_code": "CITI",
-        "swift_bic": "CITINL2XXXX",
+        "swift_bic": "CITINL2X",
         "bank_name": "CITIBANK INTERNATIONAL"
       },
       {
         "bank_code": "COBA",
-        "swift_bic": "COBANL2XXXX",
+        "swift_bic": "COBANL2X",
         "bank_name": "COMMERZBANK"
       },
       {
         "bank_code": "DEUT",
-        "swift_bic": "DEUTNL2AXXX",
+        "swift_bic": "DEUTNL2A",
         "bank_name": "DEUTSCHE BANK (bij alle SEPA-transacties)"
       },
       {
         "bank_code": "DHBN",
-        "swift_bic": "DHBNNL2RXXX",
+        "swift_bic": "DHBNNL2R",
         "bank_name": "DEMIR-HALK BANK"
       },
       {
         "bank_code": "DLBK",
-        "swift_bic": "DLBKNL2AXXX",
+        "swift_bic": "DLBKNL2A",
         "bank_name": "DELTA LLOYD BANK"
       },
       {
         "bank_code": "DNIB",
-        "swift_bic": "DNIBNL2GXXX",
+        "swift_bic": "DNIBNL2G",
         "bank_name": "NIBC"
       },
       {
         "bank_code": "EBUR",
-        "swift_bic": "EBURNL21XXX",
+        "swift_bic": "EBURNL21",
         "bank_name": "EBURY NETHERLANDS"
       },
       {
         "bank_code": "FBHL",
-        "swift_bic": "FBHLNL2AXXX",
+        "swift_bic": "FBHLNL2A",
         "bank_name": "CREDIT EUROPE BANK"
       },
       {
         "bank_code": "FLOR",
-        "swift_bic": "FLORNL2AXXX",
+        "swift_bic": "FLORNL2A",
         "bank_name": "DE NEDERLANDSCHE BANK"
       },
       {
         "bank_code": "FRNX",
-        "swift_bic": "FRNXNL2AXXX",
+        "swift_bic": "FRNXNL2A",
         "bank_name": "FRANX"
       },
       {
-        "bank_code": "FTSB",
-        "swift_bic": "ABNANL2AXXX",
-        "bank_name": "ABN AMRO (ex FORTIS)"
-      },
-      {
         "bank_code": "FVLB",
-        "swift_bic": "FVLBNL22XXX",
+        "swift_bic": "FVLBNL22",
         "bank_name": "VAN LANSCHOT"
       },
       {
         "bank_code": "GILL",
-        "swift_bic": "GILLNL2AXXX",
+        "swift_bic": "GILLNL2A",
         "bank_name": "INSINGERGILISSEN"
       },
       {
         "bank_code": "HAND",
-        "swift_bic": "HANDNL2AXXX",
+        "swift_bic": "HANDNL2A",
         "bank_name": "SVENSKA HANDELSBANKEN"
       },
       {
         "bank_code": "HHBA",
-        "swift_bic": "HHBANL22XXX",
+        "swift_bic": "HHBANL22",
         "bank_name": "HOF HOORNEMAN BANKIERS"
       },
       {
         "bank_code": "HSBC",
-        "swift_bic": "HSBCNL2AXXX",
+        "swift_bic": "HSBCNL2A",
         "bank_name": "HSBC BANK"
       },
       {
         "bank_code": "ICBC",
-        "swift_bic": "ICBCNL2AXXX",
+        "swift_bic": "ICBCNL2A",
         "bank_name": "MEGA INTERNATIONAL COMMERCIAL BANK"
       },
       {
         "bank_code": "ICBK",
-        "swift_bic": "ICBKNL2AXXX",
+        "swift_bic": "ICBKNL2A",
         "bank_name": "INDUSTRIAL & COMMERCIAL BANK OF CHINA"
       },
       {
         "bank_code": "INGB",
-        "swift_bic": "INGBNL2AXXX",
+        "swift_bic": "INGBNL2A",
         "bank_name": "ING"
       },
       {
         "bank_code": "ISAE",
-        "swift_bic": "ISAENL2AXXX",
+        "swift_bic": "ISAENL2A",
         "bank_name": "CACEIS BANK, Netherlands Branch"
       },
       {
         "bank_code": "ISBK",
-        "swift_bic": "ISBKNL2AXXX",
+        "swift_bic": "ISBKNL2A",
         "bank_name": "ISBANK"
       },
       {
         "bank_code": "KABA",
-        "swift_bic": "KABANL2AXXX",
+        "swift_bic": "KABANL2A",
         "bank_name": "YAPI KREDI BANK"
       },
       {
         "bank_code": "KASA",
-        "swift_bic": "KASANL2AXXX",
+        "swift_bic": "KASANL2A",
         "bank_name": "KAS BANK"
       },
       {
         "bank_code": "KNAB",
-        "swift_bic": "KNABNL2HXXX",
+        "swift_bic": "KNABNL2H",
         "bank_name": "KNAB"
       },
       {
         "bank_code": "KOEX",
-        "swift_bic": "KOEXNL2AXXX",
+        "swift_bic": "KOEXNL2A",
         "bank_name": "KEB HANA BANK"
       },
       {
         "bank_code": "KRED",
-        "swift_bic": "KREDNL2XXXX",
+        "swift_bic": "KREDNL2X",
         "bank_name": "KBC BANK"
       },
       {
         "bank_code": "LOCY",
-        "swift_bic": "LOCYNL2AXXX",
+        "swift_bic": "LOCYNL2A",
         "bank_name": "LOMBARD ODIER DARIER HENTSCH & CIE"
       },
       {
         "bank_code": "LOYD",
-        "swift_bic": "LOYDNL2AXXX",
+        "swift_bic": "LOYDNL2A",
         "bank_name": "LLOYDS TSB BANK"
       },
       {
         "bank_code": "LPLN",
-        "swift_bic": "LPLNNL2FXXX",
+        "swift_bic": "LPLNNL2F",
         "bank_name": "LEASEPLAN CORPORATION"
       },
       {
         "bank_code": "MHCB",
-        "swift_bic": "MHCBNL2AXXX",
+        "swift_bic": "MHCBNL2A",
         "bank_name": "MIZUHO BANK EUROPE NV"
       },
       {
         "bank_code": "MOYO",
-        "swift_bic": "MOYONL21XXX",
+        "swift_bic": "MOYONL21",
         "bank_name": "MONEYOU"
       },
       {
         "bank_code": "NNBA",
-        "swift_bic": "NNBANL2GXXX",
+        "swift_bic": "NNBANL2G",
         "bank_name": "NATIONALE-NEDERLANDEN BANK"
       },
       {
         "bank_code": "NWAB",
-        "swift_bic": "NWABNL2GXXX",
+        "swift_bic": "NWABNL2G",
         "bank_name": "NEDERLANDSE WATERSCHAPSBANK"
       },
       {
         "bank_code": "PCBC",
-        "swift_bic": "PCBCNL2AXXX",
+        "swift_bic": "PCBCNL2A",
         "bank_name": "CHINA CONSTRUCTION BANK, AMSTERDAM BRANCH"
       },
       {
         "bank_code": "RABO",
-        "swift_bic": "RABONL2UXXX",
+        "swift_bic": "RABONL2U",
         "bank_name": "RABOBANK"
       },
       {
         "bank_code": "RBRB",
-        "swift_bic": "RBRBNL21XXX",
+        "swift_bic": "RBRBNL21",
         "bank_name": "REGIOBANK"
       },
       {
         "bank_code": "SNSB",
-        "swift_bic": "SNSBNL2AXXX",
+        "swift_bic": "SNSBNL2A",
         "bank_name": "SNS"
       },
       {
         "bank_code": "SOGE",
-        "swift_bic": "SOGENL2AXXX",
+        "swift_bic": "SOGENL2A",
         "bank_name": "SOCIETE GENERALE"
       },
       {
         "bank_code": "TRIO",
-        "swift_bic": "TRIONL2UXXX",
+        "swift_bic": "TRIONL2U",
         "bank_name": "TRIODOS BANK"
       },
       {
         "bank_code": "UGBI",
-        "swift_bic": "UGBINL2AXXX",
+        "swift_bic": "UGBINL2A",
         "bank_name": "GARANTIBANK INTERNATIONAL"
       },
       {
         "bank_code": "VOWA",
-        "swift_bic": "VOWANL21XXX",
+        "swift_bic": "VOWANL21",
         "bank_name": "VOLKSWAGEN BANK"
       },
       {
         "bank_code": "ZWLB",
-        "swift_bic": "ZWLBNL21XXX",
+        "swift_bic": "ZWLBNL21",
         "bank_name": "SNS ( ex ZWITSERLEVENBANK)"
       }
     ]
