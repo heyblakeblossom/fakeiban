@@ -260,9 +260,19 @@ class IBANGenerator:
         account = self.rand_digits(11)
         return bank + branch + account + self.pt_check(bank + branch + account), bank
 
+    def bban_br(self, bank_code: str) -> tuple[str, str]:
+        # BR2!n 8!n(bank) 5!n(branch) 10!n(account) 1!a(account type) 1!c(owner)
+        bank = bank_code.rjust(8, "0")[-8:]
+        branch = self.rand_digits(5)
+        account = self.rand_digits(10)
+        acct_type = random.choice(string.ascii_uppercase)
+        owner = random.choice(string.ascii_uppercase + string.digits)
+        return bank + branch + account + acct_type + owner, bank
+
     BBAN_BUILDERS = {
         "IT": bban_it_sm, "SM": bban_it_sm,
         "MU": bban_mu, "SC": bban_sc,
         "BE": bban_be, "ES": bban_es, "FR": bban_fr,
         "NO": bban_no, "FI": bban_fi, "PT": bban_pt,
+        "BR": bban_br,
     }

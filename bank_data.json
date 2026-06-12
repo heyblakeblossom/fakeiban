@@ -99676,14 +99676,89 @@
     "iban_length": 23,
     "banks": [
       {
-        "bank_code": "020",
-        "swift_bic": "MIZBILIT",
-        "bank_name": "Mizrahi Tefahot Bank Ltd"
+        "bank_code": "010",
+        "swift_bic": "LUMIILITXXX",
+        "bank_name": "Bank Leumi le-Israel"
       },
       {
-        "bank_code": "010800",
-        "swift_bic": "LUMIILIT",
-        "bank_name": "Bank Leumi Le-Israel B.M"
+        "bank_code": "012",
+        "swift_bic": "POALILITXXX",
+        "bank_name": "Bank Hapoalim"
+      },
+      {
+        "bank_code": "011",
+        "swift_bic": "IDBLILITXXX",
+        "bank_name": "Israel Discount Bank"
+      },
+      {
+        "bank_code": "020",
+        "swift_bic": "MIZBILITXXX",
+        "bank_name": "Bank Mizrahi-Tefahot"
+      },
+      {
+        "bank_code": "031",
+        "swift_bic": "FIRBILITXXX",
+        "bank_name": "First International Bank of Israel"
+      },
+      {
+        "bank_code": "017",
+        "swift_bic": "BARDILITXXX",
+        "bank_name": "Mercantile Discount Bank"
+      },
+      {
+        "bank_code": "014",
+        "swift_bic": "OTSHILITXXX",
+        "bank_name": "Bank Otsar Ha-Hayal"
+      },
+      {
+        "bank_code": "004",
+        "swift_bic": "BYAHILITXXX",
+        "bank_name": "Bank Yahav"
+      },
+      {
+        "bank_code": "052",
+        "swift_bic": "PAGIILITXXX",
+        "bank_name": "Bank Poalei Agudat Israel (PAGI)"
+      },
+      {
+        "bank_code": "046",
+        "swift_bic": "MASBILITXXX",
+        "bank_name": "Bank Massad"
+      },
+      {
+        "bank_code": "054",
+        "swift_bic": "JERSILITXXX",
+        "bank_name": "Bank of Jerusalem"
+      },
+      {
+        "bank_code": "013",
+        "swift_bic": "UNBKILITXXX",
+        "bank_name": "Union Bank of Israel (Bank Igud)"
+      },
+      {
+        "bank_code": "034",
+        "swift_bic": "",
+        "bank_name": "Arab Israeli Bank"
+      },
+      {
+        "bank_code": "039",
+        "swift_bic": "",
+        "bank_name": "State Bank of India"
+      },
+      {
+        "bank_code": "009",
+        "swift_bic": "",
+        "bank_name": "Israel Postal Bank"
+      },
+      {
+        "bank_code": "018",
+        "swift_bic": "",
+        "bank_name": "One Zero Digital Bank"
+      },
+      {
+        "bank_code": "026",
+        "swift_bic": "",
+        "bank_name": "uBank"
       }
     ]
   },
@@ -106073,9 +106148,64 @@
     "iban_length": 27,
     "banks": [
       {
+        "bank_code": "12739",
+        "swift_bic": "CFMOMCMX",
+        "bank_name": "CFM Indosuez Wealth"
+      },
+      {
+        "bank_code": "17569",
+        "swift_bic": "CMBMMCMX",
+        "bank_name": "CMB Monaco (Compagnie Monégasque de Banque)"
+      },
+      {
+        "bank_code": "15638",
+        "swift_bic": "BACAMCMC",
+        "bank_name": "Andbank Monaco SAM"
+      },
+      {
+        "bank_code": "12448",
+        "swift_bic": "BARCMCMX",
+        "bank_name": "Barclays Bank PLC Monaco"
+      },
+      {
+        "bank_code": "11668",
+        "swift_bic": "BERLMCMC",
+        "bank_name": "Edmond de Rothschild (Monaco)"
+      },
+      {
+        "bank_code": "18759",
+        "swift_bic": "EFGBMCMC",
+        "bank_name": "EFG Bank (Monaco)"
+      },
+      {
+        "bank_code": "14607",
+        "swift_bic": "CCBPMCM1",
+        "bank_name": "Banque Populaire Méditerranée"
+      },
+      {
+        "bank_code": "19106",
+        "swift_bic": "AGRIMCM1",
+        "bank_name": "Crédit Agricole Monaco"
+      },
+      {
+        "bank_code": "14508",
+        "swift_bic": "BAERMCMC",
+        "bank_name": "Bank Julius Baer (Monaco)"
+      },
+      {
+        "bank_code": "16648",
+        "swift_bic": "UBPGMCMX",
+        "bank_name": "Union Bancaire Privée (UBP) Monaco"
+      },
+      {
+        "bank_code": "13338",
+        "swift_bic": "KBLXMCMC",
+        "bank_name": "Banque Richelieu Monaco"
+      },
+      {
         "bank_code": "30003",
         "swift_bic": "SOGEMCM1",
-        "bank_name": "SOCIETE GENERALE SA"
+        "bank_name": "SOCIETE GENERALE FONTVIEILLE"
       }
     ]
   },
@@ -142692,6 +142822,504 @@
         "bank_code": "VPBV",
         "swift_bic": "VPBVVGV1",
         "bank_name": "VP BANK (BVI) LTD"
+      }
+    ]
+  },
+  "MR": {
+    "country_name": "Mauritania",
+    "iban_length": 27,
+    "banks": [
+      {
+        "bank_code": "00007",
+        "swift_bic": "",
+        "bank_name": "Banque El Amana"
+      },
+      {
+        "bank_code": "00012",
+        "swift_bic": "BIIMMRMR",
+        "bank_name": "Societe Generale Mauritanie"
+      },
+      {
+        "bank_code": "00018",
+        "swift_bic": "BPMAMRMR",
+        "bank_name": "Banque Populaire de Mauritanie"
+      },
+      {
+        "bank_code": "00024",
+        "swift_bic": "BQMIMRMR",
+        "bank_name": "Banque Mauritanienne de l'Investissement"
+      }
+    ]
+  },
+  "SD": {
+    "country_name": "Sudan",
+    "iban_length": 18,
+    "banks": [
+      {
+        "bank_code": "02",
+        "swift_bic": "FISBSDKH",
+        "bank_name": "Faisal Islamic Bank"
+      },
+      {
+        "bank_code": "04",
+        "swift_bic": "BAKHSDKH",
+        "bank_name": "Bank of Khartoum"
+      },
+      {
+        "bank_code": "08",
+        "swift_bic": "NILESDKH",
+        "bank_name": "Al Nile Bank for Commerce and Development"
+      }
+    ]
+  },
+  "SO": {
+    "country_name": "Somalia",
+    "iban_length": 23,
+    "banks": [
+      {
+        "bank_code": "0001",
+        "swift_bic": "SSBMSOSM",
+        "bank_name": "Salaam Somali Bank"
+      },
+      {
+        "bank_code": "0002",
+        "swift_bic": "DAHISOSM",
+        "bank_name": "Dahabshil Bank International"
+      },
+      {
+        "bank_code": "0003",
+        "swift_bic": "AALLSOSG",
+        "bank_name": "Amal Bank"
+      },
+      {
+        "bank_code": "0004",
+        "swift_bic": "IBOSSOSM",
+        "bank_name": "International Bank of Somalia"
+      },
+      {
+        "bank_code": "0005",
+        "swift_bic": "PBSMSOSM",
+        "bank_name": "Premier Bank"
+      },
+      {
+        "bank_code": "0007",
+        "swift_bic": "SOMNSOSM",
+        "bank_name": "Sombank"
+      },
+      {
+        "bank_code": "0008",
+        "swift_bic": "MYBASOSM",
+        "bank_name": "MyBank"
+      },
+      {
+        "bank_code": "0009",
+        "swift_bic": "AMBKSOSM",
+        "bank_name": "Amana Bank"
+      },
+      {
+        "bank_code": "0011",
+        "swift_bic": "GLXYSOSM",
+        "bank_name": "Galaxy International Bank"
+      },
+      {
+        "bank_code": "0012",
+        "swift_bic": "IDMNSOSM",
+        "bank_name": "Idman Community Bank"
+      },
+      {
+        "bank_code": "0013",
+        "swift_bic": "BUHBSOSM",
+        "bank_name": "Bushra Business Bank"
+      }
+    ]
+  },
+  "DJ": {
+    "country_name": "Djibouti",
+    "iban_length": 27,
+    "banks": [
+      {
+        "bank_code": "10002",
+        "swift_bic": "MRINDJJD",
+        "bank_name": "Bank of Africa - Mer Rouge"
+      }
+    ]
+  },
+  "FO": {
+    "country_name": "Faroe Islands",
+    "iban_length": 18,
+    "banks": [
+      {
+        "bank_code": "6460",
+        "swift_bic": "FIFBFOTX",
+        "bank_name": "BankNordik"
+      },
+      {
+        "bank_code": "9181",
+        "swift_bic": "EIKBFOTF",
+        "bank_name": "Betri Banki"
+      },
+      {
+        "bank_code": "9865",
+        "swift_bic": "NOYAFO21",
+        "bank_name": "Norðoya Sparikassi"
+      },
+      {
+        "bank_code": "9870",
+        "swift_bic": "SUSPFOT1",
+        "bank_name": "Suðuroyar Sparikassi"
+      }
+    ]
+  },
+  "GL": {
+    "country_name": "Greenland",
+    "iban_length": 18,
+    "banks": [
+      {
+        "bank_code": "6471",
+        "swift_bic": "GRENGLGX",
+        "bank_name": "GrønlandsBANKEN"
+      },
+      {
+        "bank_code": "6460",
+        "swift_bic": "BANOGLG2",
+        "bank_name": "BankNordik"
+      }
+    ]
+  },
+  "FK": {
+    "country_name": "Falkland Islands",
+    "iban_length": 18,
+    "banks": [
+      {
+        "bank_code": "SC",
+        "swift_bic": "SCBLFKFK",
+        "bank_name": "Standard Chartered Bank"
+      }
+    ]
+  },
+  "MN": {
+    "country_name": "Mongolia",
+    "iban_length": 20,
+    "banks": [
+      {
+        "bank_code": "0005",
+        "swift_bic": "AGMOMNUB",
+        "bank_name": "Khan Bank"
+      },
+      {
+        "bank_code": "0015",
+        "swift_bic": "GLMTMNUB",
+        "bank_name": "Golomt Bank"
+      },
+      {
+        "bank_code": "0004",
+        "swift_bic": "TDBMMNUB",
+        "bank_name": "Trade and Development Bank of Mongolia"
+      },
+      {
+        "bank_code": "0034",
+        "swift_bic": "STBMMNUB",
+        "bank_name": "State Bank of Mongolia"
+      },
+      {
+        "bank_code": "0032",
+        "swift_bic": "CAXBMNUB",
+        "bank_name": "XacBank"
+      },
+      {
+        "bank_code": "0029",
+        "swift_bic": "NAIMMNUB",
+        "bank_name": "National Investment Bank"
+      },
+      {
+        "bank_code": "0030",
+        "swift_bic": "CPITMNUB",
+        "bank_name": "Capitron Bank"
+      },
+      {
+        "bank_code": "0038",
+        "swift_bic": "BOGDMNUB",
+        "bank_name": "Bogd Bank"
+      },
+      {
+        "bank_code": "0021",
+        "swift_bic": "ARGBMNUB",
+        "bank_name": "Arig Bank"
+      },
+      {
+        "bank_code": "0039",
+        "swift_bic": "MBKNMNUB",
+        "bank_name": "M Bank"
+      },
+      {
+        "bank_code": "0019",
+        "swift_bic": "TBOMMNUB",
+        "bank_name": "Transbank"
+      },
+      {
+        "bank_code": "0033",
+        "swift_bic": "CHKHMNUB",
+        "bank_name": "Chinggis Khaan Bank"
+      }
+    ]
+  },
+  "TL": {
+    "country_name": "Timor-Leste",
+    "iban_length": 23,
+    "banks": [
+      {
+        "bank_code": "002",
+        "swift_bic": "CGDITLDI",
+        "bank_name": "Caixa Geral de Depositos (BNU)"
+      },
+      {
+        "bank_code": "003",
+        "swift_bic": "ANZBTLDI",
+        "bank_name": "ANZ Banking Group Ltd"
+      },
+      {
+        "bank_code": "004",
+        "swift_bic": "BNCTTLDD",
+        "bank_name": "Banco Nacional de Comercio de Timor-Leste"
+      },
+      {
+        "bank_code": "005",
+        "swift_bic": "",
+        "bank_name": "PT. Bank Mandiri (Persero) Tbk, Dili"
+      },
+      {
+        "bank_code": "006",
+        "swift_bic": "BRINTLDD",
+        "bank_name": "PT. Bank Rakyat Indonesia (Persero) Tbk"
+      }
+    ]
+  },
+  "RU": {
+    "country_name": "Russia",
+    "iban_length": 33,
+    "banks": [
+      {
+        "bank_code": "044525225",
+        "swift_bic": "SABRRUMM",
+        "bank_name": "Sberbank"
+      },
+      {
+        "bank_code": "044525187",
+        "swift_bic": "VTBRRUMM",
+        "bank_name": "VTB Bank"
+      },
+      {
+        "bank_code": "044525823",
+        "swift_bic": "GAZPRUMM",
+        "bank_name": "Gazprombank"
+      },
+      {
+        "bank_code": "044525593",
+        "swift_bic": "ALFARUMM",
+        "bank_name": "Alfa-Bank"
+      },
+      {
+        "bank_code": "044525111",
+        "swift_bic": "RUAGRUMM",
+        "bank_name": "Rosselkhozbank (Russian Agricultural Bank)"
+      },
+      {
+        "bank_code": "044525985",
+        "swift_bic": "JSNMRUMM",
+        "bank_name": "Otkritie FC Bank"
+      },
+      {
+        "bank_code": "044525700",
+        "swift_bic": "RZBMRUMM",
+        "bank_name": "Raiffeisenbank Russia"
+      },
+      {
+        "bank_code": "044525967",
+        "swift_bic": "SOMRRUMM",
+        "bank_name": "Sovcombank"
+      },
+      {
+        "bank_code": "044525974",
+        "swift_bic": "TICSRUMM",
+        "bank_name": "Tinkoff Bank (T-Bank)"
+      },
+      {
+        "bank_code": "044525555",
+        "swift_bic": "PRMSRUMM",
+        "bank_name": "Promsvyazbank (PSB)"
+      },
+      {
+        "bank_code": "044525545",
+        "swift_bic": "IMBKRUMM",
+        "bank_name": "UniCredit Bank Russia"
+      },
+      {
+        "bank_code": "044525256",
+        "swift_bic": "RSBNRUMM",
+        "bank_name": "Rosbank"
+      },
+      {
+        "bank_code": "044525659",
+        "swift_bic": "MCRBRUMM",
+        "bank_name": "Moscow Credit Bank (MKB)"
+      },
+      {
+        "bank_code": "044525202",
+        "swift_bic": "CITIRUMX",
+        "bank_name": "Citibank Russia"
+      }
+    ]
+  },
+  "BR": {
+    "country_name": "Brazil",
+    "iban_length": 29,
+    "banks": [
+      {
+        "bank_code": "00000000",
+        "swift_bic": "BRASBRRJ",
+        "bank_name": "Banco do Brasil"
+      },
+      {
+        "bank_code": "60701190",
+        "swift_bic": "ITAUBRSP",
+        "bank_name": "Itaú Unibanco"
+      },
+      {
+        "bank_code": "60746948",
+        "swift_bic": "BBDEBRSP",
+        "bank_name": "Banco Bradesco"
+      },
+      {
+        "bank_code": "00360305",
+        "swift_bic": "CEFXBRSP",
+        "bank_name": "Caixa Econômica Federal"
+      },
+      {
+        "bank_code": "90400888",
+        "swift_bic": "BSCHBRSP",
+        "bank_name": "Banco Santander (Brasil)"
+      },
+      {
+        "bank_code": "18236120",
+        "swift_bic": "",
+        "bank_name": "Nu Pagamentos (Nubank)"
+      },
+      {
+        "bank_code": "00416968",
+        "swift_bic": "ITEMBRSP",
+        "bank_name": "Banco Inter"
+      },
+      {
+        "bank_code": "30306294",
+        "swift_bic": "",
+        "bank_name": "Banco BTG Pactual"
+      },
+      {
+        "bank_code": "92702067",
+        "swift_bic": "BRGSBRRS",
+        "bank_name": "Banco do Estado do Rio Grande do Sul (Banrisul)"
+      },
+      {
+        "bank_code": "58160789",
+        "swift_bic": "SAFRBRSP",
+        "bank_name": "Banco Safra"
+      },
+      {
+        "bank_code": "59588111",
+        "swift_bic": "",
+        "bank_name": "Banco BV (Votorantim)"
+      },
+      {
+        "bank_code": "02038232",
+        "swift_bic": "",
+        "bank_name": "Sicoob"
+      },
+      {
+        "bank_code": "01181521",
+        "swift_bic": "",
+        "bank_name": "Sicredi"
+      }
+    ]
+  },
+  "HN": {
+    "country_name": "Honduras",
+    "iban_length": 28,
+    "banks": [
+      {
+        "bank_code": "ATTD",
+        "swift_bic": "ATTDHNTE",
+        "bank_name": "Banco Atlántida"
+      },
+      {
+        "bank_code": "BMIL",
+        "swift_bic": "BMILHNTE",
+        "bank_name": "Banco de América Central Honduras (BAC)"
+      },
+      {
+        "bank_code": "FCOH",
+        "swift_bic": "FCOHHNTE",
+        "bank_name": "Banco Financiera Comercial Hondureña (Ficohsa)"
+      },
+      {
+        "bank_code": "BOCC",
+        "swift_bic": "BOCCHNTE",
+        "bank_name": "Banco de Occidente S.A."
+      },
+      {
+        "bank_code": "PISA",
+        "swift_bic": "PISAHNTE",
+        "bank_name": "Banco del País S.A. (Banpaís)"
+      },
+      {
+        "bank_code": "BCCE",
+        "swift_bic": "BCCEHNTE",
+        "bank_name": "Banco LAFISE (Honduras) S.A."
+      },
+      {
+        "bank_code": "BGAH",
+        "swift_bic": "BGAHHNTE",
+        "bank_name": "Banco Davivienda Honduras S.A."
+      },
+      {
+        "bank_code": "TSBO",
+        "swift_bic": "TSBOHNTA",
+        "bank_name": "Banco de los Trabajadores"
+      }
+    ]
+  },
+  "NI": {
+    "country_name": "Nicaragua",
+    "iban_length": 28,
+    "banks": [
+      {
+        "bank_code": "BAPR",
+        "swift_bic": "BAPRNIMA",
+        "bank_name": "Banco de la Producción (BANPRO)"
+      },
+      {
+        "bank_code": "BAMC",
+        "swift_bic": "BAMCNIMA",
+        "bank_name": "Banco de América Central (BAC Nicaragua)"
+      },
+      {
+        "bank_code": "BCCE",
+        "swift_bic": "BCCENIMA",
+        "bank_name": "Banco LAFISE Bancentro S.A."
+      },
+      {
+        "bank_code": "BBDF",
+        "swift_bic": "BBDFNIMA",
+        "bank_name": "Banco de Finanzas S.A. (BDF)"
+      },
+      {
+        "bank_code": "PRCB",
+        "swift_bic": "PRCBNIMA",
+        "bank_name": "Banco Avanz S.A."
+      },
+      {
+        "bank_code": "BUNO",
+        "swift_bic": "BUNONIMA",
+        "bank_name": "Banco Ficohsa Nicaragua S.A."
       }
     ]
   }

@@ -17,18 +17,22 @@ from fastapi.responses import JSONResponse
 from iban import IBANGenerator, UnknownCountryError
 from address import AddressGenerator
 
-CDN = "https://cdn.jsdelivr.net/gh/blkblssm/fakeiban@main"
-iban_generator = IBANGenerator(f"{CDN}/bank_data.json")
-address_generator = AddressGenerator(f"{CDN}/address_data.json")
+CDN = "https://cdn.jsdelivr.net/gh/blkblossom/fakeiban@main"
+iban_generator = IBANGenerator(f"{CDN}/bank_data.json", fetch_timeout=30)
+address_generator = AddressGenerator(f"{CDN}/address_data.json", fetch_timeout=30)
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    # Multi-MB data files load from a CDN; retry so a transient slow response
+    # doesn't permanently disable a feature (e.g. silently null addresses).
     for gen in (iban_generator, address_generator):
-        try:
-            gen.load()
-        except Exception:
-            pass
+        for _ in range(3):
+            try:
+                gen.load()
+                break
+            except Exception:
+                pass
     yield
 
 
