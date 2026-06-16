@@ -103,4 +103,5 @@ class AddressGenerator:
     @staticmethod
     def phone(d: dict) -> str:
         fmt = d.get("phone_format", "+X-XXX-XXX-XXXX")
-        return "".join(str(random.randint(0, 9)) if ch == "X" else ch for ch in fmt)
+        number = "".join(str(random.randint(0, 9)) if ch == "X" else ch for ch in fmt)
+        return number.replace("-", "").replace(" ", "")
