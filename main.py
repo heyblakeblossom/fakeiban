@@ -18,20 +18,17 @@ from iban import IBANGenerator, UnknownCountryError
 from address import AddressGenerator
 
 CDN = "https://cdn.jsdelivr.net/gh/blkblossom/fakeiban@main"
-BANK_CSV_URL = f"{CDN}/all_bank_data.csv"
-ALLOWLIST_URL = f"{CDN}/openiban_valid_codes.json"
+BANK_CSV_URL = f"{CDN}/bank_data.csv"
 
 iban_generator = IBANGenerator(BANK_CSV_URL, fetch_timeout=30)
 address_generator = AddressGenerator(f"{CDN}/address_data.json", fetch_timeout=30)
-
-OPENIBAN_STALE = {"CR"}
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     for _ in range(3):
         try:
-            iban_generator.load_csv(BANK_CSV_URL, ALLOWLIST_URL)
+            iban_generator.load_csv(BANK_CSV_URL)
             break
         except Exception:
             pass
@@ -114,8 +111,6 @@ def iban(country: str = Query(..., description="ISO country code, e.g. DE")):
         result = iban_generator.generate(country).to_dict()
     except UnknownCountryError as e:
         raise HTTPException(400, str(e))
-    if result["country_code"] in OPENIBAN_STALE:
-        result["note"] = "Valid per ISO 13616; openiban.com has an outdated length for this country."
     result["address"] = address_for(country)
     return result
 

@@ -101,23 +101,16 @@ class IBANGenerator:
         if not self.banks:
             raise RuntimeError("Loaded data is empty")
 
-    def load_csv(self, csv_url: str, allowlist_url: str | None = None) -> None:
+    def load_csv(self, csv_url: str) -> None:
         import csv as _csv
         import io as _io
-
-        allow: dict[str, set] = {}
-        if allowlist_url:
-            try:
-                allow = {cc: set(v) for cc, v in json.loads(self.fetch(allowlist_url)).items()}
-            except Exception:
-                allow = {}
 
         self.banks.clear()
         self.country_names.clear()
         for r in _csv.DictReader(_io.StringIO(self.fetch(csv_url))):
             cc = r["country_code"].strip().upper()
             code = r["bank_code"].strip()
-            if not code or (cc in allow and code not in allow[cc]):
+            if not code:
                 continue
             self.country_names[cc] = r["country_name"].strip()
             self.banks.setdefault(cc, []).append(Bank(
