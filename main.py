@@ -1,6 +1,6 @@
 """
-FAKEIBAN API — generates a structurally-valid IBAN (with a matching random
-address) for a country. Generation logic lives in iban.py and address.py.
+FAKEIBAN API — generates a valid IBAN (with a matching random address) for a
+country. Generation logic lives in iban.py and address.py.
 
 Run:
     uvicorn main:app --host 0.0.0.0 --port 8000
@@ -18,25 +18,33 @@ from iban import IBANGenerator, UnknownCountryError
 from address import AddressGenerator
 
 CDN = "https://cdn.jsdelivr.net/gh/blkblossom/fakeiban@main"
-iban_generator = IBANGenerator(f"{CDN}/bank_data.json", fetch_timeout=30)
+BANK_CSV_URL = f"{CDN}/all_bank_data.csv"
+ALLOWLIST_URL = f"{CDN}/openiban_valid_codes.json"
+
+iban_generator = IBANGenerator(BANK_CSV_URL, fetch_timeout=30)
 address_generator = AddressGenerator(f"{CDN}/address_data.json", fetch_timeout=30)
+
+OPENIBAN_STALE = {"CR"}
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Multi-MB data files load from a CDN; retry so a transient slow response
-    # doesn't permanently disable a feature (e.g. silently null addresses).
-    for gen in (iban_generator, address_generator):
-        for _ in range(3):
-            try:
-                gen.load()
-                break
-            except Exception:
-                pass
+    for _ in range(3):
+        try:
+            iban_generator.load_csv(BANK_CSV_URL, ALLOWLIST_URL)
+            break
+        except Exception:
+            pass
+    for _ in range(3):
+        try:
+            address_generator.load()
+            break
+        except Exception:
+            pass
     yield
 
 
-app = FastAPI(title="FAKEIBAN API", version="1.0.0", lifespan=lifespan)
+app = FastAPI(title="FAKEIBAN API", version="2.0.0", lifespan=lifespan)
 app.add_middleware(
     CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"],
 )
@@ -88,7 +96,7 @@ def address_for(country: str) -> dict | None:
 def home():
     return {
         "name": "FAKEIBAN API",
-        "version": "1.0.0",
+        "version": "2.0.0",
         "endpoints": {"iban": "GET /iban?country=DE", "countries": "GET /countries"},
         "supported_countries": len(iban_generator.banks),
     }
@@ -106,6 +114,8 @@ def iban(country: str = Query(..., description="ISO country code, e.g. DE")):
         result = iban_generator.generate(country).to_dict()
     except UnknownCountryError as e:
         raise HTTPException(400, str(e))
+    if result["country_code"] in OPENIBAN_STALE:
+        result["note"] = "Valid per ISO 13616; openiban.com has an outdated length for this country."
     result["address"] = address_for(country)
     return result
 
