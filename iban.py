@@ -215,6 +215,40 @@ class IBANGenerator:
     def pt_check(d19: str) -> str:
         return f"{98 - int(d19 + '00') % 97:02d}"
 
+    @staticmethod
+    def iso7064_national(digits: str) -> str:
+        """ISO 7064 MOD 97-10 national check digits (BA, ME, RS, SI)."""
+        return f"{98 - (int(digits) * 100) % 97:02d}"
+
+    @staticmethod
+    def ee_check(body: str) -> str:
+        """Estonian account check digit: weighted (7,3,1) mod 10 over reversed body."""
+        weights = (7, 3, 1)
+        r = sum(weights[i % 3] * int(c) for i, c in enumerate(reversed(body))) % 10
+        return "0" if r == 0 else str(10 - r)
+
+    def wmod11_fill(self, weights: list[int]) -> str:
+        """Random digit string of len(weights) whose weighted sum is 0 mod 11.
+
+        Used for Czech/Slovak prefix and account numbers (last weight must be 1).
+        """
+        while True:
+            head = [random.randint(0, 9) for _ in range(len(weights) - 1)]
+            partial = sum(w * d for w, d in zip(weights, head))
+            last = (-partial) % 11
+            if last != 10:
+                return "".join(map(str, head)) + str(last)
+
+    def is_kennitala(self) -> str:
+        """Icelandic 10-digit kennitala with a valid mod-11 check digit at index 8."""
+        weights = (3, 2, 7, 6, 5, 4, 3, 2)
+        while True:
+            head = self.rand_digits(8)
+            rem = sum(w * int(c) for w, c in zip(weights, head)) % 11
+            chk = 0 if rem == 0 else 11 - rem
+            if chk != 10:
+                return head + str(chk) + self.rand_digits(1)
+
 
     def build_bban(self, country: str, bank_code: str,
                    iban_length: int) -> tuple[str, str]:
@@ -290,10 +324,50 @@ class IBANGenerator:
         owner = random.choice(string.ascii_uppercase + string.digits)
         return bank + branch + account + acct_type + owner, bank
 
+    def bban_ba(self, bank_code: str) -> tuple[str, str]:
+        # BA: 3!n bank 3!n branch 8!n account 2!n ISO7064 check
+        bank = bank_code.rjust(3, "0")[-3:]
+        body = bank + self.rand_digits(3) + self.rand_digits(8)
+        return body + self.iso7064_national(body), bank
+
+    def bban_me_rs(self, bank_code: str) -> tuple[str, str]:
+        # ME / RS: 3!n bank 13!n account 2!n ISO7064 check
+        bank = bank_code.rjust(3, "0")[-3:]
+        body = bank + self.rand_digits(13)
+        return body + self.iso7064_national(body), bank
+
+    def bban_si(self, bank_code: str) -> tuple[str, str]:
+        # SI: 5!n bank/branch 8!n account 2!n ISO7064 check
+        five = bank_code.rjust(5, "0")[-5:]
+        body = five + self.rand_digits(8)
+        return body + self.iso7064_national(body), five
+
+    def bban_ee(self, bank_code: str) -> tuple[str, str]:
+        # EE: 2!n bank 2!n branch 11!n account 1!n check
+        bank = bank_code.rjust(2, "0")[-2:]
+        branch = self.rand_digits(2)
+        account = self.rand_digits(11)
+        return bank + branch + account + self.ee_check(branch + account), bank
+
+    def bban_cz_sk(self, bank_code: str) -> tuple[str, str]:
+        # CZ / SK: 4!n bank 6!n prefix 10!n account (both mod-11 checked)
+        bank = bank_code.rjust(4, "0")[-4:]
+        prefix = self.wmod11_fill([10, 5, 8, 4, 2, 1])
+        account = self.wmod11_fill([6, 3, 7, 9, 10, 5, 8, 4, 2, 1])
+        return bank + prefix + account, bank
+
+    def bban_is(self, bank_code: str) -> tuple[str, str]:
+        # IS: 2!n bank 2!n branch 2!n type 6!n account 10!n kennitala (mod-11 checked)
+        bank = bank_code.rjust(2, "0")[-2:]
+        return (bank + self.rand_digits(2) + self.rand_digits(2)
+                + self.rand_digits(6) + self.is_kennitala()), bank
+
     BBAN_BUILDERS = {
         "IT": bban_it_sm, "SM": bban_it_sm,
         "MU": bban_mu, "SC": bban_sc,
-        "BE": bban_be, "ES": bban_es, "FR": bban_fr,
+        "BE": bban_be, "ES": bban_es, "FR": bban_fr, "MC": bban_fr,
         "NO": bban_no, "FI": bban_fi, "PT": bban_pt,
         "BR": bban_br,
+        "BA": bban_ba, "ME": bban_me_rs, "RS": bban_me_rs, "SI": bban_si,
+        "EE": bban_ee, "CZ": bban_cz_sk, "SK": bban_cz_sk, "IS": bban_is,
     }

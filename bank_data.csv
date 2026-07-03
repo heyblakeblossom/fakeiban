@@ -70,8 +70,6 @@ AT,Austria,12002,BKAUATWWXXX,UniCredit Bank Austria AG,20
 AT,Austria,12004,BKAUATWWXXX,UniCredit Bank Austria AG,20
 AT,Austria,12005,BKAUATWWXXX,UniCredit Bank Austria AG,20
 AT,Austria,14000,BAWAATWWXXX,BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft,20
-AT,Austria,14001,BAWAATWWXXX,BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft,20
-AT,Austria,14002,BAWAATWWXXX,BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft,20
 AT,Austria,14200,BAWAATWWXXX,BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft,20
 AT,Austria,14210,BAWAATWWXXX,BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft,20
 AT,Austria,14900,BAWAATWWXXX,BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft,20
@@ -125,7 +123,6 @@ AT,Austria,15134,OBKLAT2LXXX,Oberbank AG,20
 AT,Austria,15135,OBKLAT2LXXX,Oberbank AG,20
 AT,Austria,15150,OBKLAT2LXXX,Oberbank AG,20
 AT,Austria,15151,OBKLAT2LXXX,Oberbank AG,20
-AT,Austria,15899,OBKLAT2LXXX,Oberbank AG,20
 AT,Austria,16000,BTVAAT22XXX,BTV Vier Länder Bank AG,20
 AT,Austria,16300,BTVAAT22XXX,BTV Vier Länder Bank AG,20
 AT,Austria,16310,BTVAAT22XXX,BTV Vier Länder Bank AG,20
@@ -150,9 +147,7 @@ AT,Austria,17200,BFKKAT2KXXX,BKS Bank AG,20
 AT,Austria,17300,BFKKAT2KXXX,BKS Bank AG,20
 AT,Austria,17400,BFKKAT2KXXX,BKS Bank AG,20
 AT,Austria,17500,BFKKAT2KXXX,BKS Bank AG,20
-AT,Austria,17899,BFKKAT2KXXX,BKS Bank AG,20
 AT,Austria,18100,GEBAATWWXXX,BNP Paribas SA Niederlassung Österreich,20
-AT,Austria,18120,PABXATW1XXX,A1 Bank AG,20
 AT,Austria,18130,BWFBATW1XXX,Österreichische Ärzte- und Apothekerbank AG,20
 AT,Austria,18140,CITIATWXXXX,"Citibank Europe plc, Austria Branch",20
 AT,Austria,18150,SGABATWWXXX,Société Générale Zweigniederlassung Wien,20
@@ -161,7 +156,6 @@ AT,Austria,18170,,KA Finanz AG i.A.,20
 AT,Austria,18190,BAWAATWWXXX,BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft,20
 AT,Austria,18400,BGENATWWXXX,Generali Bank AG,20
 AT,Austria,18600,VKBLAT2LXXX,Volkskreditbank AG,20
-AT,Austria,19001,TRBKATW2XXX,"Trade Republic Bank GmbH, Branch Austria",20
 AT,Austria,19100,DEUTATWWXXX,Deutsche Bank Aktiengesellschaft Filiale Wien,20
 AT,Austria,19120,SPBAATWWXXX,bank99 AG,20
 AT,Austria,19140,GUTBATWWXXX,Bank Gutmann Aktiengesellschaft,20
@@ -182,7 +176,6 @@ AT,Austria,19450,COPRATWWXXX,Liechtensteinische Landesbank (Österreich) AG,20
 AT,Austria,19460,BLFLATWWXXX,"LGT Bank AG, Zweigniederlassung Österreich",20
 AT,Austria,19480,BIIWATWWXXX,flatexDEGIRO Bank AG,20
 AT,Austria,19510,COPRATWWXXX,Liechtensteinische Landesbank (Österreich) AG,20
-AT,Austria,19515,OPBAATW2XXX,Stellantis Bank SA Niederlassung Österreich,20
 AT,Austria,19520,STSPAT2GXXX,Steiermärkische Bank und Sparkassen Aktiengesellschaft,20
 AT,Austria,19530,SPAEAT2SXXX,Bankhaus Carl Spängler & Co. Aktiengesellschaft,20
 AT,Austria,19540,BKCHATWWXXX,Bank of China (Central and Eastern Europe) Limited Vienna Branch,20
@@ -192,11 +185,8 @@ AT,Austria,19660,INVOATWWXXX,Kommunalkredit Austria AG,20
 AT,Austria,19675,COBAATWXXXX,Commerzbank AG Niederlassung Wien,20
 AT,Austria,19690,TVBAATWWXXX,VakifBank International AG,20
 AT,Austria,19810,SANTATWWXXX,Santander Consumer Bank GmbH,20
-AT,Austria,19825,WUSNATWWXXX,Wüstenrot Bank AG,20
 AT,Austria,19880,WUIBATWWXXX,Western Union International Bank GmbH,20
-AT,Austria,19888,ICBKATWWXXX,ICBC Austria Bank GmbH,20
 AT,Austria,19930,CENBATWWXXX,Raiffeisen Digital Bank AG,20
-AT,Austria,19931,CENBATWWRDB,Raiffeisen Digital Bank AG,20
 AT,Austria,19950,WUBUAT2SXXX,Bausparkasse Wüstenrot Aktiengesellschaft,20
 AT,Austria,19970,BRASATWWXXX,Banco do Brasil Aktiengesellschaft,20
 AT,Austria,20100,GIBAATWGXXX,Erste Group Bank AG,20
@@ -253,8 +243,6 @@ AT,Austria,20839,SPVOAT21XXX,Sparkasse Voitsberg-Köflach Bankaktiengesellschaft
 AT,Austria,24012,BAOSATWWXXX,Bausparkasse der österreichischen Sparkassen Aktiengesellschaft,20
 AT,Austria,30000,RZBAATWWXXX,Raiffeisen Bank International AG,20
 AT,Austria,31000,RZBAATWWXXX,Raiffeisen Bank International AG,20
-AT,Austria,31111,RZBAATWWVAM,Raiffeisen Bank International AG,20
-AT,Austria,31112,RZBAATWWREC,Raiffeisen Bank International AG,20
 AT,Austria,31303,RBSKATW1XXX,Raiffeisen Bausparkasse Gesellschaft m.b.H.,20
 AT,Austria,31500,NTBAATWWXXX,NOTARTREUHANDBANK AG,20
 AT,Austria,32000,RLNWATWWXXX,RAIFFEISENLANDESBANK NIEDERÖSTERREICH-WIEN AG,20
@@ -474,7 +462,6 @@ AT,Austria,34921,RZOOAT2LXXX,Raiffeisenlandesbank Oberösterreich Aktiengesellsc
 AT,Austria,34922,RZOOAT2LXXX,Raiffeisenlandesbank Oberösterreich Aktiengesellschaft,20
 AT,Austria,34923,RZOOAT2LXXX,Raiffeisenlandesbank Oberösterreich Aktiengesellschaft,20
 AT,Austria,34950,RZOOAT2LXXX,Raiffeisenlandesbank Oberösterreich Aktiengesellschaft,20
-AT,Austria,34955,RZOOAT2LXXX,Raiffeisenlandesbank Oberösterreich Aktiengesellschaft,20
 AT,Austria,35000,RVSAAT2SXXX,Raiffeisenverband Salzburg eGen,20
 AT,Austria,35001,RVSAAT2S001,Raiffeisenbank Lammertal eGen,20
 AT,Austria,35003,RVSAAT2S053,Raiffeisenbank Pinzgau Mitte eGen,20
@@ -920,11 +907,8 @@ AT,Austria,57000,HYPTAT22XXX,HYPO TIROL BANK AG,20
 AT,Austria,57100,HYPTAT22XXX,HYPO TIROL BANK AG,20
 AT,Austria,58000,HYPVAT2BXXX,Hypo Vorarlberg Bank AG,20
 AT,Austria,60000,BAWAATWWXXX,BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse Aktiengesellschaft,20
-AT,Austria,73700,,Österreichische Hotel- und Tourismusbank Gesellschaft m.b.H.,20
 AT,Austria,74200,SFIVATW1XXX,SPAR-FINANZ BANK AG,20
-AT,Austria,75910,OPBAATW2XXX,Stellantis Bank SA Niederlassung Österreich,20
 AT,Austria,76000,PORCAT21XXX,Porsche Bank Aktiengesellschaft,20
-AT,Austria,76022,VIAUATW1XXX,card complete Service Bank AG,20
 AT,Austria,76032,TEAMDE71TAT,TeamBank Österreich - Niederlassung der TeamBank AG Nürnberg,20
 AT,Austria,76040,VIAUATW1XXX,card complete Service Bank AG,20
 AT,Austria,76520,COPRATWWXXX,Liechtensteinische Landesbank (Österreich) AG,20
@@ -1092,7 +1076,6 @@ BE,Belgium,098,GKCCBEBB,BELFIUS BANK,16
 BE,Belgium,099,GKCCBEBB,BELFIUS BANK,16
 BE,Belgium,100,NBBEBEBB203,Nationale Bank van België,16
 BE,Belgium,101,NBBEBEBBHCC,Nationale Bank van België (Hoofdkas),16
-BE,Belgium,102,,Uitwisselingscentrum en Verrekening (U.C.V.),16
 BE,Belgium,103,NICABEBB,Crelan,16
 BE,Belgium,104,NICABEBB,Crelan,16
 BE,Belgium,105,NICABEBB,Crelan,16
@@ -1104,8 +1087,6 @@ BE,Belgium,110,CTBKBEBX,Beobank,16
 BE,Belgium,111,ABERBE22,Bank J. Van Breda & C°,16
 BE,Belgium,113,CTBKBEBX,Beobank,16
 BE,Belgium,114,CTBKBEBX,Beobank,16
-BE,Belgium,115,PAUIBE22,HR Pay Solutions,16
-BE,Belgium,116,ATMNBE32XXX,Atlantic Money NV/SA,16
 BE,Belgium,119,CTBKBEBX,Beobank,16
 BE,Belgium,120,CTBKBEBX,Beobank,16
 BE,Belgium,121,CTBKBEBX,Beobank,16
@@ -1115,9 +1096,7 @@ BE,Belgium,124,CTBKBEBX,Beobank,16
 BE,Belgium,125,CPHBBE75,Banque CPH,16
 BE,Belgium,126,CPHBBE75,Banque CPH,16
 BE,Belgium,127,CTBKBEBX,Beobank,16
-BE,Belgium,128,MPSNBE92,Mobile Payment Solutions nv,16
 BE,Belgium,129,CTBKBEBX,Beobank,16
-BE,Belgium,130,DIGEBEB2,Digiteal SA,16
 BE,Belgium,131,CTBKBEBX,Beobank,16
 BE,Belgium,132,BNAGBEBB,Bank Nagelmackers,16
 BE,Belgium,133,CTBKBEBX,Beobank,16
@@ -1134,9 +1113,7 @@ BE,Belgium,147,GEBABEBB,BNP Paribas Fortis,16
 BE,Belgium,148,GEBABEBB,BNP Paribas Fortis,16
 BE,Belgium,149,GEBABEBB,BNP Paribas Fortis,16
 BE,Belgium,150,BCMCBEBB,Bancontact Payconiq Company,16
-BE,Belgium,167,BUNQBEB2XXX,"BUNQ, Belgian Branch",16
 BE,Belgium,171,CPHBBE75,Banque CPH,16
-BE,Belgium,175,,Systèmes Technologiques d'Echange et de Traitement - STET,16
 BE,Belgium,176,BSCHBEBBRET,Santander Consumer Finance – Succursale en Belgique/Bijkantoor in België,16
 BE,Belgium,185,BBRUBEBB,ING België,16
 BE,Belgium,189,SMBCBEBB,Sumitomo Mitsui Banking Corporation (SMBC),16
@@ -1460,7 +1437,6 @@ BE,Belgium,522,UTWBBEBB,United Taiwan Bank,16
 BE,Belgium,523,TRIOBEBB,Triodos Bank,16
 BE,Belgium,524,WAFABEBB,Attijariwafa bank Europe,16
 BE,Belgium,525,FVLBBE22,F. van Lanschot Bankiers,16
-BE,Belgium,538,,Hoist Finance AB,16
 BE,Belgium,541,BKIDBE22,BANK OF INDIA,16
 BE,Belgium,546,WAFABEBB,Attijariwafa bank Europe,16
 BE,Belgium,548,LOCYBEBB,Lombard Odier (Europe),16
@@ -1512,10 +1488,7 @@ BE,Belgium,598,CTBKBEBX,Beobank,16
 BE,Belgium,599,CTBKBEBX,Beobank,16
 BE,Belgium,600,CTBKBEBX,Beobank,16
 BE,Belgium,601,CTBKBEBX,Beobank,16
-BE,Belgium,603,SWNBBEB2,SWAN SAS,16
-BE,Belgium,604,SWNBBEB2,SWAN SAS,16
 BE,Belgium,605,BKCHBEBB,Bank of China (Europe) SA Brussels Branch,16
-BE,Belgium,606,DLLUBE22,Delen Private Bank Luxembourg – Belgian Branch,16
 BE,Belgium,607,ICBKBEBB,Industrial and Commercial Bank of China (Europe),16
 BE,Belgium,610,DEUTBEBE,Deutsche Bank AG,16
 BE,Belgium,611,DEUTBEBE,Deutsche Bank AG,16
@@ -1532,26 +1505,17 @@ BE,Belgium,638,GKCCBEBB,BELFIUS BANK,16
 BE,Belgium,640,KREDBEBB,KBC Bank,16
 BE,Belgium,642,BBVABEBB,Banco Bilbao Vizcaya Argentaria,16
 BE,Belgium,643,BMPBBEBB,UniCredit SA/NV,16
-BE,Belgium,644,,FCA Bank S.p.A.,16
 BE,Belgium,645,JVBABE22,Bank J. Van Breda & C°,16
 BE,Belgium,646,BNAGBEBB,Bank Nagelmackers,16
 BE,Belgium,647,BNAGBEBB,Bank Nagelmackers,16
 BE,Belgium,648,BMPBBEBBVOD,UniCredit SA/NV,16
-BE,Belgium,649,CEPABEB2,Caisse d'Epargne et de Prévoyance Hauts de France,16
-BE,Belgium,650,REVOBEB2XXX,Revolut Bank UAB Belgian branch,16
 BE,Belgium,651,KEYTBEBB,Arkéa Direct Bank (nom commercial / commerciële naam: Keytrade Bank),16
 BE,Belgium,652,BBRUBEBB,ING België,16
-BE,Belgium,653,BARCBEBB,Barclays Bank Ireland Plc Brussels Branch,16
-BE,Belgium,654,,Crédit foncier et communal d'Alsace et de Lorraine - Banque,16
 BE,Belgium,657,GKCCBEBB,BELFIUS BANK,16
 BE,Belgium,658,HABBBEBB,Habib Bank,16
 BE,Belgium,663,BMEUBEB1,BMCE Euro Services,16
 BE,Belgium,664,BCDMBEBB,Banque Chaabi du Maroc,16
-BE,Belgium,666,,WORLDLINE NV,16
-BE,Belgium,667,CMCIBEB1CIC,Crédit Industriel et Commercial - Succursale de Bruxelles,16
 BE,Belgium,668,SBINBE2X,State Bank of India,16
-BE,Belgium,669,,WORLDLINE NV,16
-BE,Belgium,670,,CNH Industrial Capital EUROPE,16
 BE,Belgium,671,EURBBE99,Europabank,16
 BE,Belgium,672,GKCCBEBB,BELFIUS BANK,16
 BE,Belgium,673,BBRUBEBB,ING België,16
@@ -1564,17 +1528,13 @@ BE,Belgium,679,GEBABEBB,BNP Paribas Fortis,16
 BE,Belgium,680,GKCCBEBB,BELFIUS BANK,16
 BE,Belgium,682,GKCCBEBB,BELFIUS BANK,16
 BE,Belgium,683,GKCCBEBB,BELFIUS BANK,16
-BE,Belgium,684,SGABBEB2,Société Générale,16
 BE,Belgium,685,BOFABE3X,Bank of America Europe DAC - Brussels Branch,16
 BE,Belgium,686,BOFABE3X,Bank of America Europe DAC - Brussels Branch,16
 BE,Belgium,687,MGTCBEBE,Euroclear Bank,16
 BE,Belgium,688,SGABBEB2,Société Générale,16
-BE,Belgium,689,BOFABE3X,Bank of America Europe DAC - Brussels Branch,16
 BE,Belgium,693,BOTKBEBX,MUFG Bank (Europe),16
 BE,Belgium,694,DEUTBEBE,Deutsche Bank AG,16
-BE,Belgium,695,MGTCBEBE,Euroclear Bank,16
 BE,Belgium,696,CRLYBEBB,Crédit Agricole Corporate & Investment Bank,16
-BE,Belgium,699,MGTCBEBE,Euroclear Bank,16
 BE,Belgium,700,AXABBE22,Crelan,16
 BE,Belgium,701,AXABBE22,Crelan,16
 BE,Belgium,702,AXABBE22,Crelan,16
@@ -1665,7 +1625,6 @@ BE,Belgium,805,AXABBE22,Crelan,16
 BE,Belgium,806,AXABBE22,Crelan,16
 BE,Belgium,817,ISAEBEBB,CACEIS Bank Belgian Branch,16
 BE,Belgium,823,BLUXBEBB,Banque de Luxembourg,16
-BE,Belgium,824,,ING Bank,16
 BE,Belgium,825,DEUTBEBE,Deutsche Bank AG,16
 BE,Belgium,826,DEUTBEBE,Deutsche Bank AG,16
 BE,Belgium,828,BBRUBEBB,ING België,16
@@ -1713,11 +1672,7 @@ BE,Belgium,896,VDSPBE91,vdk bank,16
 BE,Belgium,897,VDSPBE91,vdk bank,16
 BE,Belgium,898,VDSPBE91,vdk bank,16
 BE,Belgium,899,VDSPBE91,vdk bank,16
-BE,Belgium,903,TRWIBEB1,Wise Europe SA,16
-BE,Belgium,904,TRWIBEBB,Wise Europe SA,16
-BE,Belgium,905,TRWIBEB1,Wise Europe SA,16
 BE,Belgium,906,CEKVBE88,Centrale Kredietverlening (C.K.V.),16
-BE,Belgium,907,,Mollie B.V.,16
 BE,Belgium,908,CEKVBE88,Centrale Kredietverlening (C.K.V.),16
 BE,Belgium,910,BBRUBEBB,ING België,16
 BE,Belgium,911,TUNZBEB1,Worldline Financial Solutions nv/SA,16
@@ -1725,7 +1680,6 @@ BE,Belgium,913,EPBFBEBB,EPBF,16
 BE,Belgium,914,FXBBBEBB,Ibanfirst,16
 BE,Belgium,915,OONXBEBB,Equals Money Europe SA,16
 BE,Belgium,916,GOCFBEB1,GOLD COMMODITIES FOREX (G.C.F.),16
-BE,Belgium,917,,Buy Way Personal Finance,16
 BE,Belgium,920,BBRUBEBB,ING België,16
 BE,Belgium,922,BBRUBEBB,ING België,16
 BE,Belgium,923,BBRUBEBB,ING België,16
@@ -1740,9 +1694,7 @@ BE,Belgium,939,BBRUBEBB,ING België,16
 BE,Belgium,940,CLIQBEB1,Banque Centrale de Compensation (Clearnet),16
 BE,Belgium,941,DEGRBEBB,Banque Degroof Petercam Luxembourg,16
 BE,Belgium,942,PUILBEBB,Puilaetco Branch of Quintet Private Bank SA,16
-BE,Belgium,943,,IC Financial Services SA – Belgian Branch,16
 BE,Belgium,945,JPMGBEBB,J.P. Morgan SE – Brussels Branch,16
-BE,Belgium,948,HOMNBEB2,Mastercard Transaction Services (Europe) NV/SA,16
 BE,Belgium,949,HSBCBEBB,HSBC Continental Europe Belgium,16
 BE,Belgium,950,CTBKBEBX,Beobank,16
 BE,Belgium,951,CTBKBEBX,Beobank,16
@@ -1757,16 +1709,13 @@ BE,Belgium,959,CTBKBEBX,Beobank,16
 BE,Belgium,960,ABNABE2AIPC,ABN AMRO Bank N.V.,16
 BE,Belgium,961,BBRUBEBB,ING België,16
 BE,Belgium,963,AXABBE22,Crelan,16
-BE,Belgium,964,FPEBBEB2,FINANCIERE DES PAIEMENTS ELECTRONIQUES SAS - NICKEL BELGIUM,16
 BE,Belgium,967,TRWIBEB1,Wise Europe SA,16
 BE,Belgium,968,ENIBBEBB,Banque Eni,16
 BE,Belgium,969,PUILBEBB,Puilaetco Branch of Quintet Private Bank SA,16
 BE,Belgium,971,BBRUBEBB,ING België,16
 BE,Belgium,973,ARSPBE22,Argenta Spaarbank (ASPA),16
-BE,Belgium,974,PESOBEB1,PPS EU SA,16
 BE,Belgium,975,AXABBE22,Crelan,16
 BE,Belgium,976,BBRUBEBB,ING België,16
-BE,Belgium,977,PAYVBEB2,Paynovate,16
 BE,Belgium,978,ARSPBE22,Argenta Spaarbank (ASPA),16
 BE,Belgium,979,ARSPBE22,Argenta Spaarbank (ASPA),16
 BE,Belgium,980,ARSPBE22,Argenta Spaarbank (ASPA),16
@@ -1990,7 +1939,6 @@ CH,Switzerland,00210,UBSWCHZH52A,UBS Switzerland AG,21
 CH,Switzerland,00211,UBSWCHZH31A,UBS Switzerland AG,21
 CH,Switzerland,00213,UBSWCHZH94N,UBS Switzerland AG,21
 CH,Switzerland,00214,UBSWCHZH88A,UBS Switzerland AG,21
-CH,Switzerland,00215,UBSWCHZH12C,UBS Switzerland AG,21
 CH,Switzerland,00216,UBSWCHZH88B,UBS Switzerland AG,21
 CH,Switzerland,00217,UBSWCHZH82P,UBS Switzerland AG,21
 CH,Switzerland,00219,UBSWCHZH85B,UBS Switzerland AG,21
@@ -2066,11 +2014,6 @@ CH,Switzerland,00295,UBSWCHZH94F,UBS Switzerland AG,21
 CH,Switzerland,00296,UBSWCHZH86Q,UBS Switzerland AG,21
 CH,Switzerland,00297,UBSWCHZH14A,UBS Switzerland AG,21
 CH,Switzerland,00298,UBSWCHZH80A,UBS Switzerland AG,21
-CH,Switzerland,00303,UBSWCHZHW03,UBS Switzerland AG,21
-CH,Switzerland,00304,UBSWCHZHW04,UBS Switzerland AG,21
-CH,Switzerland,00305,UBSWCHZHW05,UBS Switzerland AG,21
-CH,Switzerland,00306,UBSWCHZHW06,UBS Switzerland AG,21
-CH,Switzerland,00308,UBSWCHZHW08,UBS Switzerland AG,21
 CH,Switzerland,00315,UBSBCHZZXXX,UBS AG,21
 CH,Switzerland,00700,ZKBKCHZZ80A,Zürcher Kantonalbank,21
 CH,Switzerland,00702,ZKBKCHZZ80A,Zürcher Kantonalbank,21
@@ -2153,7 +2096,6 @@ CH,Switzerland,00787,KBZGCH22XXX,Zuger Kantonalbank,21
 CH,Switzerland,00788,BCGECHGGXXX,Banque Cantonale de Genève,21
 CH,Switzerland,00789,BCJUCH22XXX,Banque Cantonale du Jura SA,21
 CH,Switzerland,00790,KBBECH22XXX,Berner Kantonalbank AG,21
-CH,Switzerland,01007,SNBZCHZZDX2,Schweizerische Nationalbank Transit wCBDC,21
 CH,Switzerland,04835,CRESCHZZ80A,UBS Switzerland AG (formerly Credit Suisse),21
 CH,Switzerland,04866,CRESCHZHXXX,UBS AG (formerly Credit Suisse),21
 CH,Switzerland,06180,RBABCH22180,Crédit Mutuel de la Vallée SA,21
@@ -2214,13 +2156,10 @@ CH,Switzerland,08307,HYPLCH22XXX,Hypothekarbank Lenzburg AG,21
 CH,Switzerland,08309,SYCOCHGGXXX,Banque SYZ SA,21
 CH,Switzerland,08326,CAGYCH21XXX,Caisse d'Epargne de Nyon société coopérative,21
 CH,Switzerland,08327,RBABCH22CEA,Caisse d'Epargne d'Aubonne Sociéte coopérative,21
-CH,Switzerland,08329,ERSCCH21XXX,Ersparniskasse Speicher,21
 CH,Switzerland,08334,KBSOCH22XXX,Baloise Bank AG,21
 CH,Switzerland,08335,BLFLCHBBXXX,LGT Bank (Schweiz) AG,21
 CH,Switzerland,08346,AEXTCHZZXXX,Banque Algérienne du Commerce Extérieur SA,21
-CH,Switzerland,08348,CDEMCH21XXX,Caisse d'Epargne et de Crédit Mutuel de Chermignon,21
 CH,Switzerland,08349,CDDVCH21XXX,"Caisse d'Epargne Riviera, société coopérative",21
-CH,Switzerland,08351,,SOS Cash & Value SA,21
 CH,Switzerland,08352,VIMMCHZZXXX,Loomis Schweiz SA,21
 CH,Switzerland,08373,PCBCCHZZXXX,"China Construction Bank Corporation, Beijing, Swiss Branch",21
 CH,Switzerland,08374,ISAECH2NXXX,"CACEIS Bank, Montrouge, succursale de Nyon / Suisse",21
@@ -2346,7 +2285,6 @@ CH,Switzerland,08780,DEUTCHZZXXX,Deutsche Bank AG Zürich Branch,21
 CH,Switzerland,08781,SWQBCHZZXXX,Swissquote Bank SA,21
 CH,Switzerland,08784,SLFFCH22XXX,Spar- und Leihkasse Frutigen AG,21
 CH,Switzerland,08785,RSOSCH22XXX,Regiobank Solothurn AG,21
-CH,Switzerland,08787,,Pfandbriefbank schweizerischer Hypothekarinstitute AG,21
 CH,Switzerland,08788,HFTCCHGGXXX,BANQUE HERITAGE SA,21
 CH,Switzerland,08789,HBZUCHZZXXX,Habib Bank AG Zürich,21
 CH,Switzerland,08797,TMBECH22XXX,IBKR Financial Services AG,21
@@ -2374,11 +2312,9 @@ CH,Switzerland,08854,AXIPCHZZXXX,AXA Leben AG,21
 CH,Switzerland,08855,ZURICHZFXXX,Zurich Insurance Company Ltd,21
 CH,Switzerland,08856,BAAMCHBBXXX,Baloise Leben AG,21
 CH,Switzerland,08858,BAAMCHBBBVG,Baloise Versicherung AG,21
-CH,Switzerland,08859,,Schweizerische Mobiliar Versicherungsgesellschaft AG,21
 CH,Switzerland,08865,RMCOCHBBXXX,Remaco Asset Management AG,21
 CH,Switzerland,08866,LFFSCHGGXXX,LF Finance (Suisse) SA,21
 CH,Switzerland,08867,SSBECHZZXXX,"State Street Bank International GmbH, München, ZN Zürich",21
-CH,Switzerland,08868,DELECHG2XXX,Delen (Suisse) SA,21
 CH,Switzerland,08871,ZAPRCH22XXX,Zähringer Privatbank AG,21
 CH,Switzerland,08880,INSECHZZXXX,SIX SIS AG,21
 CH,Switzerland,08881,INSECHZZXXX,SIX SIS AG,21
@@ -2386,225 +2322,6 @@ CH,Switzerland,08887,INSECHZZXXX,SIX SIS AG,21
 CH,Switzerland,08890,SKBPCH22XXX,Sparkasse Bundespersonal,21
 CH,Switzerland,08899,BISBCHBBXXX,BIZ Bank für Internationalen Zahlungsausgleich,21
 CH,Switzerland,09000,POFICHBEXXX,PostFinance AG,21
-CH,Switzerland,30000,POFICHBEXXX,PostFinance AG,21
-CH,Switzerland,30002,BHFBCHZZXXX,ODDO BHF (Schweiz) AG,21
-CH,Switzerland,30003,ZURICHZFZLT,Zürich Lebensvers.-Ges. AG Individual Life geb. Vermögen,21
-CH,Switzerland,30004,ZURICHZFZKT,Zürich Lebensvers.-Ges. AG Group Life geb. Vermögen,21
-CH,Switzerland,30005,UBSWCHZH80A,UBS Switzerland AG,21
-CH,Switzerland,30006,ZURICHZFZNT,Zürich Versicherungs.-Ges. AG gebundenes Vermögen,21
-CH,Switzerland,30010,AGRICHGGXXX,CA Indosuez (Switzerland) SA,21
-CH,Switzerland,30020,RBABCH22180,Crédit Mutuel de la Vallée SA,21
-CH,Switzerland,30021,RBABCH22182,Caisse d'Epargne de Cossonay société coopérative,21
-CH,Switzerland,30022,RBABCH22186,Sparkasse Sense,21
-CH,Switzerland,30023,RBABCH22240,Caisse d'Epargne Courtelary SA,21
-CH,Switzerland,30024,VABECH22XXX,Valiant Bank AG,21
-CH,Switzerland,30026,RBABCH22313,Bernerland Bank AG,21
-CH,Switzerland,30027,RBABCH22342,SB Saanen Bank AG,21
-CH,Switzerland,30028,RBABCH22363,Bank SLM AG,21
-CH,Switzerland,30029,RBABCH22374,Spar+Leihkasse Riggisberg AG,21
-CH,Switzerland,30030,RBABCH22382,Burgerliche Ersparniskasse Bern Genossenschaft,21
-CH,Switzerland,30031,RBABCH22387,Ersparniskasse Affoltern i. E. AG,21
-CH,Switzerland,30032,RBABCH22XXX,Entris Banking AG,21
-CH,Switzerland,30033,RBABCH22428,Clientis Sparkasse Oftringen Genossenschaft,21
-CH,Switzerland,30034,RBABCH22434,Clientis Bank im Thal AG,21
-CH,Switzerland,30035,RBABCH22450,Bank Oberaargau AG,21
-CH,Switzerland,30036,RBABCH22575,Clientis Bank Aareland AG,21
-CH,Switzerland,30037,RBABCH22588,Bank Leerau Genossenschaft,21
-CH,Switzerland,30038,RBABCH22633,Sparkasse Schwyz AG,21
-CH,Switzerland,30040,RBABCH22670,Clientis Entlebucher Bank AG,21
-CH,Switzerland,30042,RBABCH22807,GRB Glarner Regionalbank Genossenschaft,21
-CH,Switzerland,30043,BSZHCHZZXXX,Sparhafen Bank AG,21
-CH,Switzerland,30044,RBABCH22814,Sparcassa 1816 Genossenschaft,21
-CH,Switzerland,30045,RBABCH22824,BANK ZIMMERBERG AG,21
-CH,Switzerland,30046,RBABCH22828,Regiobank Männedorf AG,21
-CH,Switzerland,30047,RBABCH22830,Lienhardt & Partner Privatbank Zürich AG,21
-CH,Switzerland,30048,RBABCH22835,Ersparniskasse Schaffhausen AG,21
-CH,Switzerland,30049,RBABCH22850,Bank Avera Genossenschaft,21
-CH,Switzerland,30050,RBABCH22858,BS Bank Schaffhausen AG,21
-CH,Switzerland,30051,RBABCH22866,Spar- und Leihkasse Thayngen AG,21
-CH,Switzerland,30053,RBABCH22875,Leihkasse Stammheim AG,21
-CH,Switzerland,30054,RBABCH22877,Zürcher Landbank AG,21
-CH,Switzerland,30055,RBABCH22888,Bank BSU Genossenschaft,21
-CH,Switzerland,30056,ACRGCH22XXX,acrevis Bank AG,21
-CH,Switzerland,30057,ARBHCH22XXX,Alpha RHEINTAL Bank AG,21
-CH,Switzerland,30058,RBABCH22935,Clientis Bank Oberuzwil AG,21
-CH,Switzerland,30060,RBABCH22955,Clientis Bank Toggenburg AG,21
-CH,Switzerland,30061,RBABCH22964,Bank in Zuzwil,21
-CH,Switzerland,30062,RBABCH22977,Clientis Bank Thur Genossenschaft,21
-CH,Switzerland,30063,RBABCH22980,Biene Bank im Rheintal Genossenschaft,21
-CH,Switzerland,30110,POSOCH22XXX,Banca Popolare di Sondrio (Suisse) SA,21
-CH,Switzerland,30113,AGRICHGXXXX,Crédit Agricole next Bank (Suisse) SA,21
-CH,Switzerland,30114,CMBNCHZHXXX,Cembra Money Bank AG,21
-CH,Switzerland,30115,SLWYCH21XXX,Spar- und Leihkasse Wynigen AG,21
-CH,Switzerland,30116,HYPLCH22XXX,Hypothekarbank Lenzburg AG,21
-CH,Switzerland,30117,ERSCCH21XXX,Ersparniskasse Speicher,21
-CH,Switzerland,30118,KBSOCH22XXX,Baloise Bank AG,21
-CH,Switzerland,30119,BLFLCHBBXXX,LGT Bank (Schweiz) AG,21
-CH,Switzerland,30121,CDDVCH21XXX,"Caisse d'Epargne Riviera, société coopérative",21
-CH,Switzerland,30122,BZSDCH22XXX,Bezirks-Sparkasse Dielsdorf Genossenschaft,21
-CH,Switzerland,30123,ABSOCH22XXX,Alternative Bank Schweiz AG,21
-CH,Switzerland,30124,WIRBCHBBXXX,WIR Bank Genossenschaft,21
-CH,Switzerland,30125,FRGGCHB1XXX,Freie Gemeinschaftsbank Genossenschaft,21
-CH,Switzerland,30126,EKIICH22XXX,Bank EKI Genossenschaft,21
-CH,Switzerland,30127,EEKBCH22XXX,Bank EEK AG,21
-CH,Switzerland,30128,SLBUCH22XXX,Spar- und Leihkasse Bucheggberg,21
-CH,Switzerland,30129,SLGUCH2MXXX,Spar + Leihkasse Gürbetal AG,21
-CH,Switzerland,30130,RBABCH22DCB,DC Bank Deposito-Cassa der Stadt Bern,21
-CH,Switzerland,30131,VZDBCHZZXXX,VZ Depotbank AG,21
-CH,Switzerland,30132,MIGRCHZZXXX,Migros Bank AG,21
-CH,Switzerland,30133,BCLRCHBBXXX,Bank Cler AG,21
-CH,Switzerland,30141,CBLUCH22XXX,Cornèr Banca SA,21
-CH,Switzerland,30143,BGAGCH22XXX,Bank Gantrisch Genossenschaft,21
-CH,Switzerland,30144,EKRUCH21XXX,Ersparniskasse Rüeggisberg Genossenschaft,21
-CH,Switzerland,30145,BBOBCH22XXX,BBO Bank Brienz Oberhasli AG,21
-CH,Switzerland,30146,SBTICH22XXX,Società Bancaria Ticinese,21
-CH,Switzerland,30147,BTVACH22XXX,"BTV Vier Länder Bank AG Innsbruck, Zweigniederlassung Staad",21
-CH,Switzerland,30151,BZBKCH2WXXX,BZ Bank Aktiengesellschaft,21
-CH,Switzerland,30152,CHASCHGXXXX,"JPMorgan Chase Bank, National Association, Columbus",21
-CH,Switzerland,30153,BASECH22XXX,Banca del Sempione SA,21
-CH,Switzerland,30154,BPPBCHGGXXX,"BNP PARIBAS, Paris, succursale de Lancy/Genève",21
-CH,Switzerland,30156,HSBCCHZZXXX,"HSBC Bank plc, London, Zweigniederlassung Zürich",21
-CH,Switzerland,30157,AEKTCH22XXX,AEK BANK 1826 Genossenschaft,21
-CH,Switzerland,30159,CIALCHBBXXX,Bank CIC (SCHWEIZ) AG,21
-CH,Switzerland,30162,LINSCH23XXX,LLB (Schweiz) AG,21
-CH,Switzerland,30163,BKTHCH22XXX,Bank Thalwil Genossenschaft,21
-CH,Switzerland,30164,AGRICHGGXXX,CA Indosuez (Switzerland) SA,21
-CH,Switzerland,30165,SARACHBBXXX,Bank J. Safra Sarasin AG,21
-CH,Switzerland,30166,BSSACHGGXXX,CBH - Compagnie Bancaire Helvétique SA,21
-CH,Switzerland,30167,DEUTCHZZXXX,Deutsche Bank AG Zürich Branch,21
-CH,Switzerland,30168,SWQBCHZZXXX,Swissquote Bank SA,21
-CH,Switzerland,30169,SLFFCH22XXX,Spar- und Leihkasse Frutigen AG,21
-CH,Switzerland,30170,RSOSCH22XXX,Regiobank Solothurn AG,21
-CH,Switzerland,30176,RBABCH22VLH,"Hypo Vorarlberg Bank AG, Bregenz, Zweigniederl., St. Gallen",21
-CH,Switzerland,30177,COBACHZHXXX,"COMMERZBANK AG FF, Zweigniederlassung Zürich",21
-CH,Switzerland,30178,SKBPCH22XXX,Sparkasse Bundespersonal,21
-CH,Switzerland,30180,BSCHCHGGXXX,Banco Santander International SA,21
-CH,Switzerland,30182,FSUICHGGXXX,Nexent Bank (Suisse) SA,21
-CH,Switzerland,30184,IVESCHZZXXX,Investec Bank (Switzerland) AG,21
-CH,Switzerland,30186,ANPRCH22XXX,Banque Richelieu (Schweiz) AG,21
-CH,Switzerland,30188,FVLBCHZZXXX,Van Lanschot Kempen (Schweiz) AG,21
-CH,Switzerland,30189,BILSCHZZXXX,Banque Internationale à Luxembourg (Suisse) SA,21
-CH,Switzerland,30190,BBVACHZZXXX,BBVA SA,21
-CH,Switzerland,30194,FBGSCHZZXXX,Frankfurter Bankgesellschaft (Schweiz) AG,21
-CH,Switzerland,30196,VRLLCHZZXXX,Bank von Roll AG,21
-CH,Switzerland,30197,SYCOCHGGXXX,Banque SYZ SA,21
-CH,Switzerland,30198,CAGYCH21XXX,Caisse d'Epargne de Nyon société coopérative,21
-CH,Switzerland,30199,RBABCH22CEA,Caisse d'Epargne d'Aubonne Sociéte coopérative,21
-CH,Switzerland,30201,AEXTCHZZXXX,Banque Algérienne du Commerce Extérieur SA,21
-CH,Switzerland,30202,CDEMCH21XXX,Caisse d'Epargne et de Crédit Mutuel de Chermignon,21
-CH,Switzerland,30203,ISAECH2NXXX,"CACEIS Bank, Montrouge, succursale de Nyon / Suisse",21
-CH,Switzerland,30206,NEPICHZZXXX,NPB Neue Privat Bank AG,21
-CH,Switzerland,30207,QNBACHGGXXX,QNB (Suisse) SA,21
-CH,Switzerland,30208,MGTCCHGGXXX,J.P. Morgan (Suisse) SA,21
-CH,Switzerland,30209,REYLCHGGXXX,Reyl & Cie S.A.,21
-CH,Switzerland,30210,NBOKCHGGXXX,NBK Banque Privée (Suisse) SA,21
-CH,Switzerland,30211,BBRUCHGTXXX,"ING Bank N.V., Amsterdam, succursale de Lancy/Genève",21
-CH,Switzerland,30212,BABRCHGGXXX,Banque Eric Sturdza SA,21
-CH,Switzerland,30213,BCRECH22XXX,Banca Credinvest SA,21
-CH,Switzerland,30214,VRBPCH22XXX,Banca Aletti & C. (Suisse) SA,21
-CH,Switzerland,30216,UNCECH22XXX,Axion SWISS Bank SA,21
-CH,Switzerland,30217,NBPSCHGGXXX,FAB Private Bank (Suisse) SA,21
-CH,Switzerland,30218,BAMRCHZZXXX,Mercantil Bank (Schweiz) AG,21
-CH,Switzerland,30220,VPBVCHZHXXX,VP Bank (Schweiz) AG,21
-CH,Switzerland,30221,SELVCHGGXXX,SELVI & Cie SA,21
-CH,Switzerland,30223,BEGOCHZZXXX,Bergos AG,21
-CH,Switzerland,30224,BLOMCHGGXXX,BANQUE BANORIENT (SUISSE) SA,21
-CH,Switzerland,30225,SCOPCHBBXXX,Scobag Privatbank AG,21
-CH,Switzerland,30226,CCIECHGGXXX,Hyposwiss Private Bank Genève SA,21
-CH,Switzerland,30228,GRAFCH22XXX,Privatbank Von Graffenried AG,21
-CH,Switzerland,30229,DREYCHBBXXX,"Dreyfus Söhne & Cie AG, Banquiers",21
-CH,Switzerland,30230,BONHCH22XXX,Banque Bonhôte & Cie SA,21
-CH,Switzerland,30231,PRIBCHGGXXX,Edmond de Rothschild (Suisse) S.A,21
-CH,Switzerland,30232,TRAPCHBBXXX,Trafina Privatbank AG,21
-CH,Switzerland,30233,MAEBCHZZXXX,"Maerki, Baumann & Co. AG",21
-CH,Switzerland,30234,MEDSCHGGXXX,Banque Des Monts Blancs SA,21
-CH,Switzerland,30237,BACECH22XXX,Banca del Ceresio SA,21
-CH,Switzerland,30238,EUBACH22XXX,Banca Zarattini & Co. SA,21
-CH,Switzerland,30239,GENOCHZZXXX,DZ PRIVATBANK (Schweiz) AG,21
-CH,Switzerland,30240,EFGBCHGGXXX,EFG Bank European Financial Group SA,21
-CH,Switzerland,30241,NBSZCHZZXXX,Nomura Bank (Switzerland) Ltd,21
-CH,Switzerland,30243,AUDSCHGGXXX,Banque Audi (Suisse) SA,21
-CH,Switzerland,30244,BPCPCHGGXXX,Banque de Commerce et de Placements SA,21
-CH,Switzerland,30245,BJHSCHZZXXX,Schroder & Co Bank AG,21
-CH,Switzerland,30246,CBSWCHZZXXX,Citibank (Switzerland) AG,21
-CH,Switzerland,30248,UBPGCHGGXXX,"Union Bancaire Privée, UBP SA",21
-CH,Switzerland,30249,DEUTCHGGXXX,Deutsche Bank (Suisse) S.A.,21
-CH,Switzerland,30250,RKBZCHZZXXX,GPB (Schweiz) AG,21
-CH,Switzerland,30251,ROTACHZZXXX,Rothschild & Co Bank AG,21
-CH,Switzerland,30252,PKBSCH22XXX,PKB PRIVATE BANK SA,21
-CH,Switzerland,30253,EFGBCHZZXXX,EFG Bank AG,21
-CH,Switzerland,30254,BLICCHGGXXX,HSBC Private Bank (Suisse) SA,21
-CH,Switzerland,30256,CITICHZZXXX,"Citibank N.A., Sioux Falls",21
-CH,Switzerland,30259,SGABCHZZXXX,Société Générale,21
-CH,Switzerland,30260,ARBSCHZZXXX,Arab Bank (Switzerland) Ltd.,21
-CH,Switzerland,30261,GONECHGGXXX,Gonet & Cie SA,21
-CH,Switzerland,30262,BOFACH2XXXX,"Bank of America Europe DAC, Dublin, Zurich Branch",21
-CH,Switzerland,30263,CRAMCHGGXXX,Banque Cramer & Cie SA,21
-CH,Switzerland,30264,BARCCHGGXXX,Barclays Bank (Suisse) SA,21
-CH,Switzerland,30269,BAUMCHBBXXX,Baumann & Cie KmG,21
-CH,Switzerland,30270,VONTCHZZXXX,Bank Vontobel AG,21
-CH,Switzerland,30272,REICCH22XXX,Reichmuth & Co.,21
-CH,Switzerland,30273,BORDCHGGXXX,Bordier & Cie SCmA,21
-CH,Switzerland,30275,MIRACHGGXXX,Mirabaud & Cie SA,21
-CH,Switzerland,30277,PIGUCH22XXX,Piguet Galland & Cie SA,21
-CH,Switzerland,30281,,Pfandbriefbank schweizerischer Hypothekarinstitute AG,21
-CH,Switzerland,30283,HBZUCHZZXXX,Habib Bank AG Zürich,21
-CH,Switzerland,30285,TMBECH22XXX,IBKR Financial Services AG,21
-CH,Switzerland,30286,INCOCHZZXXX,InCore Bank AG,21
-CH,Switzerland,30295,DOMICHZZXXX,Tellco Bank AG,21
-CH,Switzerland,30296,CIMMCHGGXXX,CIM Banque SA,21
-CH,Switzerland,30297,TXBZCHZZXXX,TradeXBank AG,21
-CH,Switzerland,30299,ABSGCHGGXXX,S.P. Hinduja Banque Privée SA,21
-CH,Switzerland,30308,UBSWCHZH80A,UBS Switzerland AG,21
-CH,Switzerland,30311,CAGLCHGGXXX,"ABANCA CORPORACION BANCARIA S.A., BETANZOS",21
-CH,Switzerland,30313,BLEMCHGGXXX,Banque du Léman SA,21
-CH,Switzerland,30314,QVCHCHZHXXX,Quilvest (Switzerland) Ltd.,21
-CH,Switzerland,30315,ITAUCHZZXXX,Banco Itaú (Suisse) SA,21
-CH,Switzerland,30316,GLBNCHZZXXX,Globalance Bank AG,21
-CH,Switzerland,30317,DUBACHGGXXX,Dukascopy Bank SA,21
-CH,Switzerland,30318,SFBFCH22XXX,Helvetische Bank AG,21
-CH,Switzerland,30319,AQULCHZZXXX,Aquila AG,21
-CH,Switzerland,30321,SYGNCHZZXXX,Sygnum Bank AG,21
-CH,Switzerland,30322,SCRYCH22XXX,AMINA Bank AG,21
-CH,Switzerland,30324,RMCOCHBBXXX,Remaco Asset Management AG,21
-CH,Switzerland,30325,LFFSCHGGXXX,LF Finance (Suisse) SA,21
-CH,Switzerland,30326,SSBECHZZXXX,"State Street Bank International GmbH, München, ZN Zürich",21
-CH,Switzerland,30327,ZAPRCH22XXX,Zähringer Privatbank AG,21
-CH,Switzerland,30328,BISBCHBBXXX,BIZ Bank für Internationalen Zahlungsausgleich,21
-CH,Switzerland,30329,ICBKCHZZXXX,Industrial and Commercial Bank of China Limited,21
-CH,Switzerland,30330,JLSECHGGXXX,JL Securities SA,21
-CH,Switzerland,30331,FIDHCHGGXXX,Fidurhône SA,21
-CH,Switzerland,30333,PRBECHZZXXX,Privatbank Bellerive AG,21
-CH,Switzerland,30334,,Yapeal AG,21
-CH,Switzerland,30700,ZKBKCHZZ80A,Zürcher Kantonalbank,21
-CH,Switzerland,30761,KBAGCH22XXX,Aargauische Kantonalbank,21
-CH,Switzerland,30763,AIKACH22XXX,Appenzeller Kantonalbank,21
-CH,Switzerland,30764,BSCTCH22XXX,Banca dello Stato del Cantone Ticino,21
-CH,Switzerland,30765,BCVSCH2LXXX,Banque Cantonale du Valais,21
-CH,Switzerland,30766,BCNNCH22XXX,Banque Cantonale Neuchâteloise,21
-CH,Switzerland,30767,BCVLCH2LXXX,Banque Cantonale Vaudoise,21
-CH,Switzerland,30768,BEFRCH22XXX,Banque Cantonale de Fribourg,21
-CH,Switzerland,30769,BLKBCH22XXX,Basellandschaftliche Kantonalbank,21
-CH,Switzerland,30770,BKBBCHBBXXX,Basler Kantonalbank,21
-CH,Switzerland,30773,GLKBCH22XXX,Glarner Kantonalbank,21
-CH,Switzerland,30774,GRKBCH2270A,Graubündner Kantonalbank,21
-CH,Switzerland,30777,KBSZCH22XXX,Schwyzer Kantonalbank,21
-CH,Switzerland,30778,LUKBCH2260A,Luzerner Kantonalbank AG,21
-CH,Switzerland,30779,NIKACH22XXX,Nidwaldner Kantonalbank,21
-CH,Switzerland,30780,OBWKCH22XXX,Obwaldner Kantonalbank,21
-CH,Switzerland,30781,KBSGCH22XXX,St. Galler Kantonalbank AG,21
-CH,Switzerland,30782,SHKBCH2SXXX,Schaffhauser Kantonalbank,21
-CH,Switzerland,30784,KBTGCH22XXX,Thurgauer Kantonalbank,21
-CH,Switzerland,30785,URKNCH22XXX,Urner Kantonalbank,21
-CH,Switzerland,30787,KBZGCH22XXX,Zuger Kantonalbank,21
-CH,Switzerland,30788,BCGECHGGXXX,Banque Cantonale de Genève,21
-CH,Switzerland,30789,BCJUCH22XXX,Banque Cantonale du Jura SA,21
-CH,Switzerland,30790,KBBECH22XXX,Berner Kantonalbank AG,21
-CH,Switzerland,30808,RAIFCH22XXX,Raiffeisen,21
-CH,Switzerland,31000,CRESCHZZ80A,UBS Switzerland AG (formerly Credit Suisse),21
-CH,Switzerland,31100,RDCTCHZHXXX,radicant bank ag,21
-CH,Switzerland,31101,KLARCH22XXX,Bivial AG,21
-CH,Switzerland,31866,CRESCHZHXXX,UBS AG (formerly Credit Suisse),21
 CH,Switzerland,61861,RBABCH22186,Sparkasse Sense,21
 CH,Switzerland,62401,RBABCH22240,Caisse d'Epargne Courtelary SA,21
 CH,Switzerland,62402,RBABCH22240,Caisse d'Epargne Courtelary SA,21
@@ -2618,14 +2335,8 @@ CH,Switzerland,68144,RBABCH22814,Sparcassa 1816 Genossenschaft,21
 CH,Switzerland,68241,RBABCH22824,BANK ZIMMERBERG AG,21
 CH,Switzerland,68242,RBABCH22824,BANK ZIMMERBERG AG,21
 CH,Switzerland,76410,BSCTCH22LUG,Banca dello Stato del Cantone Ticino,21
-CH,Switzerland,76411,BSCTCH22XXX,Banca dello Stato del Cantone Ticino,21
-CH,Switzerland,76412,BSCTCH22XXX,Banca dello Stato del Cantone Ticino,21
 CH,Switzerland,76420,BSCTCH22LOC,Banca dello Stato del Cantone Ticino,21
 CH,Switzerland,76430,BSCTCH22CHI,Banca dello Stato del Cantone Ticino,21
-CH,Switzerland,76440,BSCTCH22XXX,Banca dello Stato del Cantone Ticino,21
-CH,Switzerland,76450,BSCTCH22XXX,Banca dello Stato del Cantone Ticino,21
-CH,Switzerland,76460,BSCTCH22XXX,Banca dello Stato del Cantone Ticino,21
-CH,Switzerland,76470,BSCTCH22XXX,Banca dello Stato del Cantone Ticino,21
 CH,Switzerland,76711,BCVLCH2LXXX,Banque Cantonale Vaudoise,21
 CH,Switzerland,76712,BCVLCH2LXXX,Banque Cantonale Vaudoise,21
 CH,Switzerland,76713,BCVLCH2LXXX,Banque Cantonale Vaudoise,21
@@ -3008,52 +2719,13 @@ CH,Switzerland,82986,CMBNCHZHXXX,Cembra Money Bank SA,21
 CH,Switzerland,82998,CMBNCHZHXXX,Cembra Money Bank AG,21
 CH,Switzerland,83002,VRLLCHZZXXX,Bank von Roll AG,21
 CH,Switzerland,83003,CLRXCHZZXXX,SIX x-clear AG,21
-CH,Switzerland,83004,,Allianz Suisse Versicherungs-Ges. AG (geb. Vermögen),21
 CH,Switzerland,83006,ICBKCHZZXXX,Industrial and Commercial Bank of China Limited,21
 CH,Switzerland,83007,JLSECHGGXXX,JL Securities SA,21
 CH,Switzerland,83008,FIDHCHGGXXX,Fidurhône SA,21
 CH,Switzerland,83009,HELNCH22XXX,Helvetia Schweizerische Versicherungsgesellschaft AG,21
-CH,Switzerland,83010,,Allianz Suisse Lebensvers.-Ges. AG (geb. Vermögen KL),21
 CH,Switzerland,83011,PRBECHZZXXX,Privatbank Bellerive AG,21
 CH,Switzerland,83013,JHOTCHZZXXX,"Hottinger, Gaultier & Partners AG",21
-CH,Switzerland,83014,SYGNCHZZXXX,Sygnum Bank AG,21
 CH,Switzerland,83015,MBMECHZZXXX,MBaer Merchant Bank AG,21
-CH,Switzerland,83016,AXIPCHZZWIN,AXA Versicherungen AG,21
-CH,Switzerland,83017,SDXXCHZHXXX,SIX SIS AG (ex SIX Digital Exchange AG),21
-CH,Switzerland,83018,SCRYCH22XXX,AMINA Bank AG,21
-CH,Switzerland,83019,YAPECHZ2XXX,Yapeal AG,21
-CH,Switzerland,83020,,"Barclays Capital, Zurich Branch of Barclays Bank PLC, London",21
-CH,Switzerland,83021,CITECHGGXXX,Cité Gestion SA,21
-CH,Switzerland,83022,PLESCHZZXXX,ISP Securities Ltd,21
-CH,Switzerland,83024,SLAMCHZZEV0,"Swiss Life AG (EV, geb. Vermögen)",21
-CH,Switzerland,83025,SLAMCHZZNZ0,Swiss Life AG (freies Vermögen),21
-CH,Switzerland,83026,AXIPCHZZWLE,"AXA Leben AG (Einzel, geb. Vermögen)",21
-CH,Switzerland,83027,BAAMCHBBBKL,"Baloise Leben AG (Kollektiv, geb. Vermögen)",21
-CH,Switzerland,83028,BAAMCHBBBEL,"Baloise Leben AG (Einzel, geb. Vermögen)",21
-CH,Switzerland,83030,,Allianz Suisse Lebensvers.-Ges. AG (geb. Vermögen EL),21
-CH,Switzerland,83031,SWIPCHZHXXX,"Swisscanto Fondsleitung AG, handelnd für SUVA EAF",21
-CH,Switzerland,83032,ZURICHZFZNT,Zürich Versicherungs.-Ges. AG gebundenes Vermögen,21
-CH,Switzerland,83033,ZURICHZFZKT,Zürich Lebensvers.-Ges. AG Group Life geb. Vermögen,21
-CH,Switzerland,83034,ZURICHZFZLT,Zürich Lebensvers.-Ges. AG Individual Life geb. Vermögen,21
-CH,Switzerland,83035,TARSCHGGXXX,Taurus SA,21
-CH,Switzerland,83036,RDCTCHZHXXX,radicant bank ag,21
-CH,Switzerland,83037,,"Vaudoise Générale, Compagnie d'Assurances SA (geb. Vermögen)",21
-CH,Switzerland,83039,APNACHGGXXX,Alpian SA,21
-CH,Switzerland,83040,KSEHCHGGXXX,Kendra Securities House SA,21
-CH,Switzerland,83041,KLARCH22XXX,Bivial AG,21
-CH,Switzerland,83042,,MG Finance SA,21
-CH,Switzerland,83043,PICLCHZ2XXX,Private Client Bank AG,21
-CH,Switzerland,83045,BKCHCHGEXXX,"Bank of China Limited, GenevaBranch",21
-CH,Switzerland,83046,BGPBCH22XXX,BG (Suisse) Private Bank SA,21
-CH,Switzerland,83050,,Relio AG,21
-CH,Switzerland,83051,SAHHCHZ2XXX,SR Saphirstein AG,21
-CH,Switzerland,83054,HELNCH22XXX,"Helvetia Schweizerische Vers.- Ges. AG (EL, geb. Vermögen)",21
-CH,Switzerland,83055,HELNCH22XXX,"Helvetia Schweizerische Vers.- Ges. AG (KL, geb. Vermögen)",21
-CH,Switzerland,83056,,Helveticor AG,21
-CH,Switzerland,83057,,Union Securities Switzerland SA,21
-CH,Switzerland,83058,SLAMCHZZFMM,"Swiss Life Asset Management AG, handelnd für SLF (CH) MM CHF",21
-CH,Switzerland,83059,FNPICH22XXX,finpension AG,21
-CH,Switzerland,83066,BVVACH22XXX,BIVIAL AG,21
 CH,Switzerland,87105,CIALCHBBXXX,Bank CIC (SCHWEIZ) AG,21
 CH,Switzerland,87801,DEUTCHZZXXX,Deutsche Bank AG Zürich Branch,21
 CH,Switzerland,87802,DEUTCHZZXXX,Deutsche Bank AG Zürich Branch,21
@@ -3138,20 +2810,9 @@ CZ,Czechia,8610,,Devizová burza a.s.,24
 CZ,Czechia,8660,,"PAYMONT, UAB",24
 DE,Germany,10000000,MARKDEF1100,Bundesbank,22
 DE,Germany,10010010,PBNKDEFFXXX,Postbank Ndl der Deutsche Bank,22
-DE,Germany,10010123,QNTODEB2XXX,OLINDA Zweigniederlassung Deutschland,22
-DE,Germany,10010178,REVODEB2XXX,"Revolut Bank, Zweigniederlassung Deutschland",22
-DE,Germany,10010200,TRZODEB2XXX,"Treezor, Berlin",22
-DE,Germany,10010300,KLRNDEBEXXX,Klarna Bank German Branch,22
 DE,Germany,10010424,AARBDE5W100,Aareal Bank,22
-DE,Germany,10010500,AFOPDEB2XXX,Noelse Pay,22
-DE,Germany,10010700,FPEGDEB2XXX,Financiere des Paiements Electroniques NL Deutschland,22
 DE,Germany,10011001,NTSBDEB1XXX,N26 Bank,22
-DE,Germany,10012345,TRBKDEBBXXX,Trade Republic Bank,22
-DE,Germany,10014000,SWNBDEBBXXX,Swan Zweigniederlassung Deutschland,22
-DE,Germany,10014001,SWNBDEBBXXX,Swan Zweigniederlassung Deutschland (Geschäftsfeld),22
 DE,Germany,10017997,HOLVDEB1XXX,Holvi Payment Services Zweigniederlassung Deutschland,22
-DE,Germany,10018000,FNOMDEB2XXX,Finom Payments Zweigniederlassung Deutschland,22
-DE,Germany,10019000,ADYBDEB2XXX,"Adyen, German Branch",22
 DE,Germany,10020200,BHFBDEFF100,BHF-BANK,22
 DE,Germany,10020500,BFSWDE33BER,SozialBank,22
 DE,Germany,10020510,BFSWDE33BER,SozialBank,22
@@ -3183,13 +2844,7 @@ DE,Germany,10070000,DEUTDEBBXXX,Deutsche Bank,22
 DE,Germany,10070024,DEUTDEDBBER,Deutsche Bank,22
 DE,Germany,10070100,DEUTDEBB101,Deutsche Bank,22
 DE,Germany,10070124,DEUTDEDB101,Deutsche Bank,22
-DE,Germany,10070324,DEUTDEDBP30,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,10070397,DEUTDEBBP30,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,10070398,DEUTDEBBP31,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,10070399,DEUTDEBBP32,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,10070848,DEUTDEDB110,Deutsche Bank,22
-DE,Germany,10071324,DEUTDEDBP31,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,10072324,DEUTDEDBP32,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,10077777,NORSDE51XXX,norisbank,22
 DE,Germany,10080000,DRESDEFF100,Commerzbank vormals Dresdner Bank Filiale Berlin I,22
 DE,Germany,10080005,DRESDEFFI26,Commerzbank vormals Dresdner Bank Zw A,22
@@ -3216,14 +2871,10 @@ DE,Germany,10130800,BIWBDE33XXX,flatexDEGIRO Bank,22
 DE,Germany,10220500,BOFSDEB1XXX,Lloyds Bank,22
 DE,Germany,10220600,SYBKDE22BER,Sydbank Filiale Berlin,22
 DE,Germany,10310600,TRDADEB1PBK,Tradegate Berlin,22
-DE,Germany,10310666,TRDADEBBDIR,"Tradegate, GF DIR",22
-DE,Germany,10320700,MPAYDEB2XXX,MANGOPAY German Branch,22
 DE,Germany,11010100,SOBKDEBBXXX,Solaris,22
 DE,Germany,11010101,SOBKDEB2XXX,Solaris,22
-DE,Germany,11010111,PNTADEBBXXX,Solaris,22
 DE,Germany,12016836,KFWIDEFF100,KfW Kreditanstalt für Wiederaufbau,22
 DE,Germany,12030000,BYLADEM1001,Deutsche Kreditbank Berlin,22
-DE,Germany,12030030,BYLADEM1001,Deutsche Kreditbank (Gf WP),22
 DE,Germany,12030900,MEFIDEMM100,Merck Finck A Quintet Private Bank,22
 DE,Germany,12040000,COBADEBB120,Commerzbank Filiale Berlin 2,22
 DE,Germany,12050555,NOLADE21DVS,ZVA Norddeutsche Landesbank Gf SA,22
@@ -3232,8 +2883,6 @@ DE,Germany,12070000,DEUTDEBB160,Deutsche Bank,22
 DE,Germany,12070024,DEUTDEDB160,Deutsche Bank,22
 DE,Germany,12070070,DEUTDEFFVAC,Deutsche Bank,22
 DE,Germany,12070088,DEUTDEDBPAL,Deutsche Bank,22
-DE,Germany,12070400,DEUTDEBBP33,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,12070424,DEUTDEDBP33,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,12080000,DRESDEFF120,Commerzbank vormals Dresdner Bank Filiale Berlin II,22
 DE,Germany,12096597,GENODEF1S10,Sparda-Bank Berlin,22
 DE,Germany,13000000,MARKDEF1130,Bundesbank,22
@@ -3246,8 +2895,6 @@ DE,Germany,13061088,GENODEF1HWR,Raiffeisenbank Wismar -alt-,22
 DE,Germany,13061128,GENODEF1DBR,Raiffeisenbank,22
 DE,Germany,13070000,DEUTDEBRXXX,Deutsche Bank,22
 DE,Germany,13070024,DEUTDEDBROS,Deutsche Bank,22
-DE,Germany,13070405,DEUTDEBBP35,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,13070424,DEUTDEDBP35,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,13080000,DRESDEFF130,Commerzbank vormals Dresdner Bank,22
 DE,Germany,13090000,GENODEF1HR1,Rostocker Volks- und Raiffeisenbank -alt-,22
 DE,Germany,13091054,GENODEF1HST,Volksbank Vorpommern,22
@@ -3317,7 +2964,6 @@ DE,Germany,20020900,SIBSDEHHXXX,Signal Iduna Bauspar,22
 DE,Germany,20030000,HYVEDEMM300,UniCredit Bank - HypoVereinsbank,22
 DE,Germany,20030133,VGAGDEHHXXX,Ascory Bank,22
 DE,Germany,20030300,CHDBDEHHXXX,DONNER & REUSCHEL,22
-DE,Germany,20030301,CHDBDEHHXXX,Donner + Reuschel GF NL LUX,22
 DE,Germany,20030400,MCRDDEHHXXX,"Marcard, Stein & Co Bankiers",22
 DE,Germany,20030600,SYBKDE22HAM,Sydbank Fil Hamburg,22
 DE,Germany,20030700,MEFIDEMM200,Merck Finck A Quintet Private Bank,22
@@ -3360,8 +3006,6 @@ DE,Germany,20069965,GENODEF1WIM,Volksbank Winsener Marsch,22
 DE,Germany,20069989,GENODEF1WUL,Volksbank Wulfsen -alt-,22
 DE,Germany,20070000,DEUTDEHHXXX,Deutsche Bank,22
 DE,Germany,20070024,DEUTDEDBHAM,Deutsche Bank,22
-DE,Germany,20070404,DEUTDEHHP34,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,20070424,DEUTDEDBP34,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,20080000,DRESDEFF200,Commerzbank vormals Dresdner Bank,22
 DE,Germany,20080055,DRESDEFF207,Commerzbank vormals Dresdner Bank Zw 55,22
 DE,Germany,20080057,DRESDEFF208,Commerzbank vormals Dresdner Bank Gf ZW 57,22
@@ -3509,7 +3153,6 @@ DE,Germany,21020600,SYBKDE22KIE,Sydbank Filiale Kiel,22
 DE,Germany,21040010,COBADEFFXXX,Commerzbank,22
 DE,Germany,21042076,COBADEFFXXX,Commerzbank,22
 DE,Germany,21050000,HSHNDEHHXXX,Hamburg Commercial Bank,22
-DE,Germany,21050055,HHDBDEH2XXX,"Hamburg Commercial Bank, Gf Hamburg Direct Bank",22
 DE,Germany,21050170,NOLADE21KIE,Förde Sparkasse,22
 DE,Germany,21051275,NOLADE21BOR,Bordesholmer Sparkasse,22
 DE,Germany,21051580,NOLADE21PLN,Sparkasse Kreis Plön -alt-,22
@@ -3545,8 +3188,6 @@ DE,Germany,21540060,COBADEFFXXX,Commerzbank,22
 DE,Germany,21565316,GENODEF1HDW,Raiffeisenbank -alt-,22
 DE,Germany,21570011,DEUTDEHH215,Deutsche Bank,22
 DE,Germany,21570024,DEUTDEDB215,Deutsche Bank,22
-DE,Germany,21570202,DEUTDEHHP01,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,21570224,DEUTDEDBP01,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,21580000,DRESDEFF215,Commerzbank vormals Dresdner Bank,22
 DE,Germany,21661719,GENODEF1RSL,VR Bank Flensburg-Schleswig -alt-,22
 DE,Germany,21690020,GENODEF1SLW,VR Bank Schleswig-Mittelholstein -alt-,22
@@ -3589,8 +3230,6 @@ DE,Germany,23061220,GENODEF1LZN,Raiffeisenbank Leezen,22
 DE,Germany,23062124,GENODEF1BAR,Raiffeisenbank -alt-,22
 DE,Germany,23063129,GENODEF1RLB,Raiffeisenbank,22
 DE,Germany,23064107,GENODEF1BCH,Raiffeisenbank -alt-,22
-DE,Germany,23070203,DEUTDEHHP02,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,23070224,DEUTDEDBP02,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,23070700,DEUTDEDB237,Deutsche Bank,22
 DE,Germany,23070710,DEUTDEHH222,Deutsche Bank,22
 DE,Germany,23080040,DRESDEFF230,Commerzbank vormals Dresdner Bank,22
@@ -3602,8 +3241,6 @@ DE,Germany,24060300,GENODEF1NBU,Volksbank Lüneburger Heide,22
 DE,Germany,24061392,GENODEF1DAB,Volksbank Bleckede-Dahlenburg -alt-,22
 DE,Germany,24070024,DEUTDEDB240,Deutsche Bank,22
 DE,Germany,24070075,DEUTDE2H240,Deutsche Bank,22
-DE,Germany,24070324,DEUTDEDBP22,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,24070368,DEUTDE2HP22,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,24080000,DRESDEFF240,Commerzbank vormals Dresdner Bank,22
 DE,Germany,24090041,GENODEF1LUE,Volksbank Lüneburg -alt-,22
 DE,Germany,24121000,GENODED1RKI,Ritterschaftliches Kreditinstitut Stade,22
@@ -3645,8 +3282,6 @@ DE,Germany,25070070,DEUTDE2HXXX,Deutsche Bank,22
 DE,Germany,25070077,DEUTDE2H256,Deutsche Bank,22
 DE,Germany,25070084,DEUTDE2H258,Deutsche Bank,22
 DE,Germany,25070086,DEUTDE2H251,Deutsche Bank,22
-DE,Germany,25070324,DEUTDEDBP24,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,25070370,DEUTDE2HP24,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,25080020,DRESDEFF250,Commerzbank vormals Dresdner Bank,22
 DE,Germany,25080085,DRESDEFFI65,"Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2",22
 DE,Germany,25089220,DRESDEFFI09,Commerzbank vormals Dresdner Bank ITGK,22
@@ -3687,7 +3322,6 @@ DE,Germany,25662540,GENODEF1STY,Volksbank -alt-,22
 DE,Germany,25663584,GENODEF1HOY,Volksbank Aller-Weser -alt-,22
 DE,Germany,25690009,GENODEF1NIN,Volksbank Nienburg -alt-,22
 DE,Germany,25691633,GENODEF1SUL,Volksbank Niedersachsen-Mitte,22
-DE,Germany,25691699,GENODEF1SUL,Volksbank Niedersachsen-Mitte (Gf GAA),22
 DE,Germany,25740061,COBADEFFXXX,Commerzbank,22
 DE,Germany,25750001,NOLADE21CEL,Sparkasse Celle -alt-,22
 DE,Germany,25761894,GENODEF1WIK,Volksbank Wittingen-Klötze -alt-,22
@@ -3804,8 +3438,6 @@ DE,Germany,27070041,DEUTDE2H279,Deutsche Bank,22
 DE,Germany,27070042,DEUTDE2H272,Deutsche Bank,22
 DE,Germany,27070043,DEUTDE2H273,Deutsche Bank,22
 DE,Germany,27070079,DEUTDE2H275,Deutsche Bank,22
-DE,Germany,27070324,DEUTDEDBP23,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,27070369,DEUTDE2HP23,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,27072524,DEUTDEDB277,Deutsche Bank,22
 DE,Germany,27072537,DEUTDE2H277,Deutsche Bank,22
 DE,Germany,27072724,DEUTDEDB276,Deutsche Bank,22
@@ -3932,8 +3564,6 @@ DE,Germany,29070051,DEUTDEHB292,Deutsche Bank,22
 DE,Germany,29070052,DEUTDEHB294,Deutsche Bank,22
 DE,Germany,29070058,DEUTDEHB293,Deutsche Bank,22
 DE,Germany,29070059,DEUTDEHB290,Deutsche Bank,22
-DE,Germany,29070324,DEUTDEDBP21,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,29070367,DEUTDEHBP21,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,29080010,DRESDEFF290,Commerzbank vormals Bremer Bank (Dresdner Bank),22
 DE,Germany,29089210,DRESDEFFI13,Commerzbank vormals Bremer Bank (Dresdner Bank) ITGK,22
 DE,Germany,29090900,GENODEF1P03,PSD Bank Nord,22
@@ -3965,7 +3595,6 @@ DE,Germany,30000000,MARKDEF1300,Bundesbank eh Düsseldorf,22
 DE,Germany,30010400,IKBDDEDDXXX,IKB Deutsche Industriebank,22
 DE,Germany,30010444,IKBDDEDDDIR,IKB Privatkunden - IKB Deutsche Industriebank,22
 DE,Germany,30010700,BOTKDEDXXXX,MUFG Bank (Europe) Germany Branch,22
-DE,Germany,30013300,EBPBDED2XXX,"EburyPartners Belgium, Zweigniederlassung Deutschland",22
 DE,Germany,30020500,BHFBDEFF300,BHF-BANK,22
 DE,Germany,30020700,MHCBDEDDXXX,"Mizuho Bank Europe, Frankfurt Branch",22
 DE,Germany,30020900,CMCIDEDDXXX,TARGOBANK,22
@@ -3983,8 +3612,6 @@ DE,Germany,30040060,COBADEFFXXX,Commerzbank Gf 660,22
 DE,Germany,30040061,COBADEFFXXX,Commerzbank Gf 661,22
 DE,Germany,30040062,COBADEFFXXX,Commerzbank CC,22
 DE,Germany,30040063,COBADEFFXXX,Commerzbank CC,22
-DE,Germany,30040098,COBADEFFCSC,Commerz Service-Center Intensive,22
-DE,Germany,30040099,COBADEFFSTS,Commerzbank Gf Comp. Center STS,22
 DE,Germany,30050000,WELADEDDXXX,Landesbank Hessen-Thüringen Girozentrale NL. Düsseldorf,22
 DE,Germany,30050110,DUSSDEDDXXX,Stadtsparkasse Düsseldorf,22
 DE,Germany,30060010,GENODEDDXXX,DZ BANK,22
@@ -3992,8 +3619,6 @@ DE,Germany,30060601,DAAEDEDDXXX,apoBank,22
 DE,Germany,30060992,GENODEF1P05,PSD Bank Rhein-Ruhr,22
 DE,Germany,30070010,DEUTDEDDXXX,Deutsche Bank,22
 DE,Germany,30070024,DEUTDEDBDUE,Deutsche Bank,22
-DE,Germany,30070207,DEUTDEDDP06,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,30070224,DEUTDEDBP06,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,30080000,DRESDEFF300,Commerzbank vormals Dresdner Bank,22
 DE,Germany,30080005,DRESDEFFXXX,Commerzbank vormals Dresdner Bank Zw 05,22
 DE,Germany,30080022,DRESDEFFI28,Commerzbank vormals Dresdner Bank Ztv 22,22
@@ -4049,8 +3674,6 @@ DE,Germany,31062154,GENODED1KBN,Volksbank Brüggen-Nettetal,22
 DE,Germany,31062553,GENODED1NKR,Volksbank Schwalmtal,22
 DE,Germany,31070001,DEUTDEDD310,Deutsche Bank,22
 DE,Germany,31070024,DEUTDEDB310,Deutsche Bank,22
-DE,Germany,31070206,DEUTDEDDP05,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,31070224,DEUTDEDBP05,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,31080015,DRESDEFF310,Commerzbank vormals Dresdner Bank,22
 DE,Germany,31080061,DRESDEFFI34,Commerzbank vormals Dresdner Bank Zw 61,22
 DE,Germany,31251220,WELADED1ERK,Kreissparkasse Heinsberg in Erkelenz,22
@@ -4150,8 +3773,6 @@ DE,Germany,36060488,GENODEM1GBE,GENO BANK ESSEN,22
 DE,Germany,36060591,GENODED1SPE,Sparda-Bank West,22
 DE,Germany,36070024,DEUTDEDBESS,Deutsche Bank,22
 DE,Germany,36070050,DEUTDEDEXXX,Deutsche Bank,22
-DE,Germany,36070208,DEUTDEDEP07,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,36070224,DEUTDEDBP07,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,36080080,DRESDEFF360,Commerzbank vormals Dresdner Bank,22
 DE,Germany,36080085,DRESDEFFI66,"Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2",22
 DE,Germany,36089321,DRESDEFFI17,Commerzbank vormals Dresdner Bank ITGK,22
@@ -4170,15 +3791,12 @@ DE,Germany,37010050,PBNKDEFFXXX,Postbank Ndl der Deutsche Bank,22
 DE,Germany,37010600,BNPADEFFXXX,BNP Paribas Niederlassung Deutschland,22
 DE,Germany,37010699,BNPADEFFXXX,BNP Paribas Niederlassung Deutschland,22
 DE,Germany,37011000,PBNKDEFFXXX,Postbank Ndl der Deutsche Bank,22
-DE,Germany,37019000,BUNQDE82XXX,bunq Niederlassung Deutschland,22
 DE,Germany,37020090,HYVEDEMM429,UniCredit Bank - HypoVereinsbank,22
 DE,Germany,37020200,AXABDE31XXX,FNZ Bank,22
 DE,Germany,37020400,TOBADE33XXX,TOYOTA Kreditbank,22
 DE,Germany,37020500,BFSWDE33XXX,SozialBank,22
 DE,Germany,37020600,SCFBDE33XXX,Openbank Deutschland,22
 DE,Germany,37021500,FDBADE8FXXX,Ford Bank,22
-DE,Germany,37021548,LRFSDE31XXX,Ford Bank (GF EG),22
-DE,Germany,37027000,SCFBDE33XXX,Openbank Deutschland,22
 DE,Germany,37030700,WWBADE3AXXX,abcbank,22
 DE,Germany,37030800,ISBKDEFXKOL,Isbank Fil Köln,22
 DE,Germany,37040037,COBADEFFXXX,"Commerzbank, CC SP",22
@@ -4190,7 +3808,6 @@ DE,Germany,37050198,COLSDE33XXX,Sparkasse KölnBonn,22
 DE,Germany,37050299,COKSDE33XXX,Kreissparkasse Köln,22
 DE,Germany,37060120,GENODED1PA7,Pax-Bank Gf MHD,22
 DE,Germany,37060193,GENODED1PAX,Pax-Bank für Kirche und Caritas,22
-DE,Germany,37060194,GENODED1PAX,Pax-Bank GF GAA,22
 DE,Germany,37060590,GENODED1SPK,Sparda-Bank West,22
 DE,Germany,37060993,GENODEF1P13,PSD Bank West,22
 DE,Germany,37062124,GENODED1BGL,Bensberger Bank,22
@@ -4234,8 +3851,6 @@ DE,Germany,37069991,GENODED1BRL,Brühler Bank,22
 DE,Germany,37070000,DEUTDEDK402,Deutsche Bank,22
 DE,Germany,37070024,DEUTDEDBKOE,Deutsche Bank,22
 DE,Germany,37070060,DEUTDEDKXXX,Deutsche Bank,22
-DE,Germany,37070209,DEUTDEDKP08,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,37070224,DEUTDEDBP08,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,37080040,DRESDEFF370,Commerzbank vormals Dresdner Bank,22
 DE,Germany,37080085,DRESDEFFI51,Commerzbank vormals Dresdner Bank Gf PCC DCC-ITGK 1,22
 DE,Germany,37080086,DRESDEFFI67,"Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4",22
@@ -4282,8 +3897,6 @@ DE,Germany,38051290,WELADED1HON,Stadtsparkasse Bad Honnef -alt-,22
 DE,Germany,38060186,GENODED1BRS,Volksbank Köln Bonn,22
 DE,Germany,38070024,DEUTDEDB380,Deutsche Bank,22
 DE,Germany,38070059,DEUTDEDK380,Deutsche Bank,22
-DE,Germany,38070408,DEUTDEDKP38,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,38070424,DEUTDEDBP38,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,38070724,DEUTDEDBXXX,Deutsche Bank,22
 DE,Germany,38077724,DEUTDEDB383,Deutsche Bank,22
 DE,Germany,38080055,DRESDEFF380,Commerzbank vormals Dresdner Bank,22
@@ -4306,8 +3919,6 @@ DE,Germany,39060180,GENODED1AAC,Aachener Bank,22
 DE,Germany,39061981,GENODED1HNB,Heinsberger Volksbank -alt-,22
 DE,Germany,39070020,DEUTDEDK390,Deutsche Bank,22
 DE,Germany,39070024,DEUTDEDB390,Deutsche Bank,22
-DE,Germany,39070210,DEUTDEDKP09,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,39070224,DEUTDEDBP09,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,39080005,DRESDEFF390,Commerzbank vormals Dresdner Bank,22
 DE,Germany,39080098,DRESDEFFI37,Commerzbank vormals Dresdner Bank Zw 98,22
 DE,Germany,39080099,DRESDEFFI38,Commerzbank vormals Dresdner Bank Zw 99,22
@@ -4349,8 +3960,6 @@ DE,Germany,40069709,GENODEM1DLR,Volksbank in der Hohen Mark,22
 DE,Germany,40069716,GENODEM1SCN,Volksbank Südkirchen-Capelle-Nordkirchen,22
 DE,Germany,40070024,DEUTDEDB400,Deutsche Bank,22
 DE,Germany,40070080,DEUTDE3B400,Deutsche Bank,22
-DE,Germany,40070211,DEUTDE3BP10,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,40070224,DEUTDEDBP10,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,40080040,DRESDEFF400,Commerzbank vormals Dresdner Bank,22
 DE,Germany,40080085,DRESDEFFI68,"Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1",22
 DE,Germany,40090900,GENODEF1P15,VR Bank Westfalen-Lippe -alt-,22
@@ -4556,8 +4165,6 @@ DE,Germany,46650005,WELADED1ARN,Sparkasse Mitten im Sauerland,22
 DE,Germany,46660022,GENODEM1NEH,Volksbank Sauerland -alt-,22
 DE,Germany,46670007,DEUTDEDW466,Deutsche Bank,22
 DE,Germany,46670024,DEUTDEDB961,Deutsche Bank,22
-DE,Germany,46670204,DEUTDEDWP03,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,46670224,DEUTDEDBP03,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,47000000,MARKDEF1470,Bundesbank Dortmund,22
 DE,Germany,47240047,COBADEFFXXX,Commerzbank,22
 DE,Germany,47250101,WELADED1PBN,Sparkasse Paderborn -alt-,22
@@ -4581,8 +4188,6 @@ DE,Germany,47650130,WELADE3LXXX,Sparkasse Paderborn-Detmold-Höxter,22
 DE,Germany,47651225,WELADED1BLO,Stadtsparkasse Blomberg -alt-,22
 DE,Germany,47670023,DEUTDE3B476,Deutsche Bank,22
 DE,Germany,47670024,DEUTDEDB476,Deutsche Bank,22
-DE,Germany,47670205,DEUTDE3BP04,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,47670224,DEUTDEDBP04,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,47691200,GENODEM1OLB,Volksbank Ostlippe,22
 DE,Germany,47840065,COBADEFFXXX,Commerzbank,22
 DE,Germany,47840080,COBADEFFXXX,Commerzbank Zw 80,22
@@ -4643,14 +4248,12 @@ DE,Germany,49490070,GENODEM1HFV,Volksbank Herford-Mindener Land -alt-,22
 DE,Germany,50000000,MARKDEF1500,Bundesbank,22
 DE,Germany,50010060,PBNKDEFFXXX,Postbank Ndl der Deutsche Bank,22
 DE,Germany,50010200,AKBKDEFFXXX,AKBANK,22
-DE,Germany,50010300,FCBKDEFFXXX,"First Commercial Bank, Frankfurt Branch",22
 DE,Germany,50010424,AARBDE5W500,Aareal Bank ehem. Filiale Frankfurt,22
 DE,Germany,50010517,INGDDEFFXXX,ING-DiBa,22
 DE,Germany,50010700,DEGUDEFFXXX,Oldenburgische Landesbank AG,22
 DE,Germany,50010900,BOFADEFXXXX,"Bank of America Europe, Frankfurt Branch",22
 DE,Germany,50010910,BOFADEFXVAM,"Bank of America Europe, Frankfurt Branch",22
 DE,Germany,50012800,ALTEDEFAXXX,ALTE LEIPZIGER Bauspar,22
-DE,Germany,50015001,JTBPDEFFXXX,"J&T BANKA, Zweigniederlassung Deutschland",22
 DE,Germany,50016600,WUIDDEF1XXX,Western Union Intl. Bank Niederlassung Deutschland,22
 DE,Germany,50020200,BHFBDEFF500,ODDO BHF,22
 DE,Germany,50020400,KFWIDEFFXXX,KfW Kreditanstalt für Wiederaufbau Frankfurt,22
@@ -4661,34 +4264,17 @@ DE,Germany,50021000,INGBDEFFXXX,ING Bank,22
 DE,Germany,50021100,FFBKDEFFKRN,FIL Fondsbank,22
 DE,Germany,50021120,FFBKDEFFTHK,FIL Fondsbank,22
 DE,Germany,50022200,HCSEDEF1XXX,Hyundai Capital Bank Europe,22
-DE,Germany,50024024,DEFFDEFFXXX,C24 Bank,22
 DE,Germany,50025000,GMGGDE51XXX,Stellantis Bank Niederlassung Deutschland,22
-DE,Germany,50026600,CARDDEFFXXX,UNLIMINT EU Zweigniederlassung Deutschland,22
 DE,Germany,50030000,PSADDEF1XXX,Stellantis Bank Niederlassung Deutschland,22
 DE,Germany,50030010,BPNDDE52XXX,Stellantis Bank Niederlassung Deutschland,22
 DE,Germany,50030500,PARBDEFFXXX,BNP Paribas Niederlassung Deutschland,22
 DE,Germany,50030600,DWPBDEFFXXX,Deutsche WertpapierService Bank,22
 DE,Germany,50030700,ESBKDEFFXXX,DenizBank (Wien) Zw Frankfurt,22
 DE,Germany,50031000,TRODDEF1XXX,Triodos Bank Deutschland,22
-DE,Germany,50031900,BBVADEFFXXX,"BANCO BILBAO VIZCAYA ARGENTARIA, Niederlassung Deutschland",22
 DE,Germany,50033300,SCFBDE33XXX,Openbank Deutschland,22
-DE,Germany,50034200,OPENDEFFXXX,"OPEN BANK, Zweigniederlassung Deutschand",22
 DE,Germany,50038800,ABOCDEFFXXX,"Agricultural Bank of China, Frankfurt Branch",22
 DE,Germany,50040000,COBADEFFXXX,Commerzbank,22
 DE,Germany,50040005,COBADEFFXXX,"Commerzbank, Filiale Frankfurt 2",22
-DE,Germany,50040010,COBADEFFPAR,Commerzbank (IPC PARIS),22
-DE,Germany,50040011,COBADEFFVIE,Commerzbank (IPC VIENNA),22
-DE,Germany,50040012,COBADEFFMIL,Commerzbank (IPC MILANO),22
-DE,Germany,50040013,COBADEFFAMS,Commerzbank (IPC AMSTERDAM),22
-DE,Germany,50040014,COBADEFFBRU,Commerzbank (IPC BRUSSEL),22
-DE,Germany,50040015,COBADEFFMAD,Commerzbank (IPC MADRID),22
-DE,Germany,50040016,COBADEFFNYC,Commerzbank (CLB New York) FFM,22
-DE,Germany,50040017,COBADEFFSGP,Commerzbank (CLB Singapore) Frankfurt,22
-DE,Germany,50040018,COBADEFFLDN,Commerzbank (CLB London),22
-DE,Germany,50040019,COBADEFFZUR,Commerzbank (CLB Zürich),22
-DE,Germany,50040020,COBADEFFPRA,Commerzbank (CLB Prag),22
-DE,Germany,50040021,COBADEFFMOS,Commerzbank (CLB Moskau),22
-DE,Germany,50040022,COBADEFFHBG,Commerzbank (CLB Hamburg),22
 DE,Germany,50040033,COBADEF1BRS,Commerzbank Gf BRS,22
 DE,Germany,50040038,COBADEFFXXX,"Commerzbank, MBP",22
 DE,Germany,50040040,COBADEFFXXX,Commerzbank Gf ZRK,22
@@ -4724,12 +4310,6 @@ DE,Germany,50060416,GENODEF1VK6,DZ BANK GF VK6,22
 DE,Germany,50060417,GENODEF1VK7,DZ BANK GF BMT,22
 DE,Germany,50060418,GENODEF1VK8,DZ BANK GF BMT,22
 DE,Germany,50060419,GENODEF1VK9,DZ BANK GF VRF,22
-DE,Germany,50060420,GENODEF1V20,DZ BANK GF V20,22
-DE,Germany,50060421,GENODEF1V21,DZ BANK GF AIS,22
-DE,Germany,50060422,GENODEF1V22,DZ BANK GF V22,22
-DE,Germany,50060423,GENODEF1V23,DZ BANK GF V23,22
-DE,Germany,50060424,GENODEF1V24,DZ BANK GF V24,22
-DE,Germany,50060425,GENODEF1V25,DZ BANK GF BSH,22
 DE,Germany,50060474,GENODEFFBRO,"DZ BANK, Deutsche Zentral-Genossenschaftsbank",22
 DE,Germany,50061741,GENODE51OBU,Raiffeisenbank im Hochtaunus -alt-,22
 DE,Germany,50069126,GENODE51ABO,VR Bank Alzey-Land-Schwabenheim,22
@@ -4745,29 +4325,6 @@ DE,Germany,50069976,GENODE51WWI,Volksbank Wißmar,22
 DE,Germany,50070010,DEUTDEFFXXX,Deutsche Bank,22
 DE,Germany,50070011,DEUTDEFFSIP,Deutsche Bank,22
 DE,Germany,50070024,DEUTDEDBFRA,Deutsche Bank,22
-DE,Germany,50070050,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070051,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070052,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070053,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070054,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070055,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070056,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070057,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070058,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070059,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070060,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070061,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070062,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070063,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070064,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070065,DEUTDEFFXXX,Deutsche Bank,22
-DE,Germany,50070324,DEUTDEDBP25,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,50070371,DEUTDEFFS25,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,50070435,DEUTDEDBEW1,Deutsche Bank,22
-DE,Germany,50070436,DEUTDEDBEW2,Deutsche Bank,22
-DE,Germany,50070437,DEUTDEDBEW3,Deutsche Bank,22
-DE,Germany,50070438,DEUTDEDBEW4,Deutsche Bank,22
-DE,Germany,50070439,DEUTDEDBEW5,Deutsche Bank,22
 DE,Germany,50073019,DEUTDEFF502,Deutsche Bank,22
 DE,Germany,50073024,DEUTDEDB502,Deutsche Bank,22
 DE,Germany,50073081,DEUTDE5XXXX,Deutsche Bank Europe,22
@@ -4809,21 +4366,17 @@ DE,Germany,50110636,SCBLDEFXXXX,Standard Chartered Bank Frankfurt,22
 DE,Germany,50110700,FBGADEF1XXX,Frankfurter Bankgesellschaft (Deutschland),22
 DE,Germany,50110800,CHASDEFXXXX,J.P. Morgan,22
 DE,Germany,50110801,CHASDEFXVR1,J.P. Morgan,22
-DE,Germany,50110808,CHASDEF2XXX,J.P. Morgan,22
 DE,Germany,50110855,JPMGDEFFXXX,J.P. Morgan,22
 DE,Germany,50110900,MNBIDEF1XXX,Navy Federal Credit Union - Overseas Military Bank,22
 DE,Germany,50120100,ICICDEFFXXX,"ICICI Bank UK, Germany Branch",22
 DE,Germany,50120383,DELBDE33XXX,ABN AMRO Bank Frankfurt Branch - Bethmann Bank,22
 DE,Germany,50120600,COMMDEFFXXX,Bank of Communications Frankfurt branch,22
-DE,Germany,50120800,BMPBDEF2XXX,UniCredit German Branch,22
 DE,Germany,50120900,TVBADEFFXXX,VakifBank International Wien Zndl Deutschland,22
 DE,Germany,50127000,BPKODEFFXXX,PKO Bank Polski Niederlassung Deutschland,22
-DE,Germany,50127700,PAYODEF2XXX,PAYONE,22
 DE,Germany,50130000,NBPADEFFXXX,National Bank of Pakistan Zndl Frankfurt,22
 DE,Germany,50130400,MEFIDEMM501,Merck Finck A Quintet Private Bank,22
 DE,Germany,50130600,UBSWDEFFXXX,UBS Europe,22
 DE,Germany,50131000,ICBVDEFFXXX,Vietnam Joint Stock Commercial Bank for Industry and Trade,22
-DE,Germany,50131700,KODBDEFFXXX,"The Korea Development Bank, Frankfurt Branch",22
 DE,Germany,50190000,FFVBDEFFXXX,Frankfurter Volksbank Rhein-Main,22
 DE,Germany,50190300,GENODE51FHC,"Volksbank Höchst a.M., ZwNdl. der Frankfurter VB -alt-",22
 DE,Germany,50190400,GENODE51FGH,Volksbank Griesheim -alt-,22
@@ -4831,14 +4384,12 @@ DE,Germany,50210200,RABODEFFTAR,Rabobank International Frankfurt Branch,22
 DE,Germany,50210295,RABODEFFXXX,Rabobank International Frankfurt Branch,22
 DE,Germany,50210800,PRCBDEFFXXX,"ProCredit Bank, Frankfurt am Main",22
 DE,Germany,50210900,CITIDEFFXXX,Citibank Europe Germany Branch,22
-DE,Germany,50215500,ABASDEFFXXX,Hauck Aufhäuser Lampe Privatbank,22
 DE,Germany,50220085,SMHBDEFFXXX,UBS Europe,22
 DE,Germany,50220101,INVODEF2XXX,"Kommunalkredit Austria, Zweigstelle Deutschland",22
 DE,Germany,50220300,HVBKDEFFXXX,WOORI BANK EUROPE,22
 DE,Germany,50220500,BOFSDEF1XXX,Lloyds Bank,22
 DE,Germany,50220707,CAIXDEFFXXX,CAIXABANK Zweigniederlassung Deutschland,22
 DE,Germany,50220900,HAUKDEFFXXX,Hauck Aufhäuser Lampe Privatbank,22
-DE,Germany,50228899,EFIBDEFFXXX,FIB Frankfurt International Bank,22
 DE,Germany,50230000,ABCADEFFXXX,Arab Banking Corporation Zweigniederlassung Frankfurt,22
 DE,Germany,50230600,ISBKDEFXXXX,Isbank,22
 DE,Germany,50230700,METZDEFFXXX,"Metzler, B. - seel Sohn & Co",22
@@ -4861,7 +4412,6 @@ DE,Germany,50330300,IRVTDEFXXXX,The Bank of New York Mellon,22
 DE,Germany,50330500,BCDMDEF1XXX,BANQUE CHAABI DU MAROC Agentur Frankfurt Ndl. Deutschland,22
 DE,Germany,50330600,SEPBDEFFXXX,Bank Sepah-Iran,22
 DE,Germany,50334400,BNYMDEF1XXX,The Bank of New York Mellon NL Frankfurt,22
-DE,Germany,50339900,PANXDEF2XXX,German branch of Unifiedpost Payments,22
 DE,Germany,50400000,MARKDEFFXXX,Bundesbank Zentrale,22
 DE,Germany,50510300,SMBCDEFFXXX,SMBC Bank EU,22
 DE,Germany,50520190,HYVEDEMM467,UniCredit Bank - HypoVereinsbank,22
@@ -4920,8 +4470,6 @@ DE,Germany,50865224,GENODE51MWA,VB Mörfelden-Walldorf Ndl d Frankfurter VB,22
 DE,Germany,50865503,GENODE51EPT,Volksbank -alt-,22
 DE,Germany,50870005,DEUTDEFF508,Deutsche Bank,22
 DE,Germany,50870024,DEUTDEDB508,Deutsche Bank,22
-DE,Germany,50870324,DEUTDEDBP26,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,50870393,DEUTDEFFS26,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,50880050,DRESDEFF508,Commerzbank vormals Dresdner Bank,22
 DE,Germany,50880085,DRESDEFFJ14,"Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1",22
 DE,Germany,50880086,DRESDEFFJ15,"Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2",22
@@ -4965,7 +4513,6 @@ DE,Germany,51210700,NZFMDEF1XXX,NIBC Bank Zndl Frankfurt am Main,22
 DE,Germany,51210800,SOGEDEFFXXX,Societe Generale,22
 DE,Germany,51210801,SGSSDEFFXXX,Societe Generale,22
 DE,Germany,51210802,SOGEDEFFXXX,Societe Generale,22
-DE,Germany,51210803,SOGEDEFFXXX,Societe Generale,22
 DE,Germany,51211000,NATXDEFPXXX,NATIXIS Pfandbriefbank,22
 DE,Germany,51220200,ESSEDEFFXXX,Skandinaviska Enskilda Banken (publ) Frankfurt Branch,22
 DE,Germany,51220400,SIHRDEH1FFM,Bank Saderat Iran,22
@@ -4993,8 +4540,6 @@ DE,Germany,51410800,BOURDEFFXXX,Commerzbank - GF onvista,22
 DE,Germany,51420200,MIBEDEFFXXX,Misr Bank-Europe,22
 DE,Germany,51420300,BAERDEF1XXX,Bank Julius Bär Deutschland,22
 DE,Germany,51430400,GOLDDEFFXXX,Goldman Sachs,22
-DE,Germany,51430410,GOLDDEFBXXX,Goldman Sachs,22
-DE,Germany,51432100,SABCDEFFXXX,Saman Bank Niederlassung Frankfurt,22
 DE,Germany,51540037,COBADEFFXXX,Commerzbank,22
 DE,Germany,51550035,HELADEF1WET,Sparkasse Wetzlar,22
 DE,Germany,51570008,DEUTDEFF515,Deutsche Bank,22
@@ -5027,7 +4572,6 @@ DE,Germany,52053458,HELADEF1SWA,Sparkasse Borken-Schwalmstadt,22
 DE,Germany,52060000,GENODEFF520,DZ BANK,22
 DE,Germany,52060208,GENODEF1KS2,Kurhessische Landbank,22
 DE,Germany,52060410,GENODEF1EK1,Evangelische Bank,22
-DE,Germany,52060420,GENODEF1EK1,Evangelische Bank (Gf GAA),22
 DE,Germany,52061303,GENODEF1BOR,Raiffeisenbank Borken Nordhessen -alt-,22
 DE,Germany,52062200,GENODEF1GUB,VR-Bank Chattengau -alt-,22
 DE,Germany,52062601,GENODEF1HRV,VR PartnerBank Chattengau-Schwalm-Eder,22
@@ -5074,8 +4618,6 @@ DE,Germany,53062350,GENODEF1PBG,Raiffeisenbank Biebergrund-Petersberg,22
 DE,Germany,53064023,GENODEF1FLN,Raiffeisenbank -alt-,22
 DE,Germany,53070007,DEUTDEFF530,Deutsche Bank,22
 DE,Germany,53070024,DEUTDEDB530,Deutsche Bank,22
-DE,Germany,53070324,DEUTDEDBP27,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,53070394,DEUTDEFFS27,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,53080030,DRESDEFF530,Commerzbank vormals Dresdner Bank,22
 DE,Germany,53093200,GENODE51ALS,VR VerbundBank,22
 DE,Germany,53093255,GENODE51AGR,AgrarBank,22
@@ -5175,8 +4717,6 @@ DE,Germany,55061507,GENODE51HDS,VR-Bank Mainz -alt-,22
 DE,Germany,55061907,GENODE51NIS,Volksbank Rhein-Selz -alt-,22
 DE,Germany,55070024,DEUTDEDBMAI,Deutsche Bank,22
 DE,Germany,55070040,DEUTDE5MXXX,Deutsche Bank,22
-DE,Germany,55070324,DEUTDEDBP29,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,55070396,DEUTDE5MP29,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,55080044,COBADEFFXXX,"Commerzbank, TF MZ 1",22
 DE,Germany,55080065,DRESDEFF550,Commerzbank vormals Dresdner Bank,22
 DE,Germany,55080085,DRESDEFFJ20,"Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1",22
@@ -5229,8 +4769,6 @@ DE,Germany,57069727,GENODED1IRR,Raiffeisenbank Irrel -alt-,22
 DE,Germany,57069806,GENODED1MBA,VR-Bank Hunsrück-Mosel -alt-,22
 DE,Germany,57070024,DEUTDEDB570,Deutsche Bank,22
 DE,Germany,57070045,DEUTDE5M570,Deutsche Bank,22
-DE,Germany,57070324,DEUTDEDBP28,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,57070395,DEUTDE5MP28,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,57080070,DRESDEFF570,Commerzbank vormals Dresdner Bank,22
 DE,Germany,57090000,GENODE51KOB,Volksbank Koblenz Mittelrhein -alt-,22
 DE,Germany,57090010,GENODE51KOB,Volksbank Koblenz Mittelrhein GAA -alt-,22
@@ -5254,7 +4792,6 @@ DE,Germany,57661253,GENODED1KEH,Raiffeisenbank -alt-,22
 DE,Germany,57662263,GENODED1MPO,VR Bank Rhein-Mosel -alt-,22
 DE,Germany,57751310,MALADE51AHR,Kreissparkasse Ahrweiler,22
 DE,Germany,57761591,GENODED1BNA,VR Bank RheinAhrEifel,22
-DE,Germany,57761599,GENODED1BNA,Volksbank RheinAhrEifel (Gf GAA),22
 DE,Germany,57762265,GENODED1GRO,Raiffeisenbank Grafschaft-Wachtberg,22
 DE,Germany,58520086,HYVEDEMM437,UniCredit Bank - HypoVereinsbank,22
 DE,Germany,58540035,COBADEFFXXX,Commerzbank,22
@@ -5376,7 +4913,6 @@ DE,Germany,60030000,MEBEDE6SDCB,Mercedes-Benz Bank,22
 DE,Germany,60030100,BHBADES1XXX,"Bankhaus Bauer, Essen",22
 DE,Germany,60030200,ELGEDES1XXX,Bankhaus Ellwanger & Geiger,22
 DE,Germany,60030600,CPLUDES1XXX,CreditPlus Bank,22
-DE,Germany,60030633,CPLUDES1633,CreditPlus Bank GF Credit Agricole Deutschland,22
 DE,Germany,60030666,CPLUDES1666,CreditPlus Bank,22
 DE,Germany,60030700,AKBADES1XXX,AKTIVBANK,22
 DE,Germany,60030900,ISBKDEFXSTU,Isbank Fil Stuttgart,22
@@ -5465,8 +5001,6 @@ DE,Germany,60069950,GENODES1TUN,Raiffeisenbank Tüngental,22
 DE,Germany,60069976,GENODES1BOE,Raiffeisenbank Böllingertal,22
 DE,Germany,60070024,DEUTDEDBSTG,Deutsche Bank,22
 DE,Germany,60070070,DEUTDESSXXX,Deutsche Bank,22
-DE,Germany,60070214,DEUTDESSP13,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,60070224,DEUTDEDBP13,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,60080000,DRESDEFF600,Commerzbank vormals Dresdner Bank,22
 DE,Germany,60080055,DRESDEFF608,Commerzbank vormals Dresdner Bank Zw 55,22
 DE,Germany,60080057,DRESDEFF609,Commerzbank vormals Dresdner Bank Gf Zw 57,22
@@ -5606,8 +5140,6 @@ DE,Germany,64050000,SOLADES1REU,Kreissparkasse Reutlingen,22
 DE,Germany,64061854,GENODES1STW,VR Bank Tübingen -alt-,22
 DE,Germany,64070024,DEUTDEDB640,Deutsche Bank,22
 DE,Germany,64070085,DEUTDESS640,Deutsche Bank,22
-DE,Germany,64070215,DEUTDESSP14,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,64070224,DEUTDEDBP14,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,64080014,DRESDEFF640,Commerzbank vormals Dresdner Bank,22
 DE,Germany,64090100,VBRTDE6RXXX,Volksbank Reutlingen -alt-,22
 DE,Germany,64091200,GENODES1MTZ,Volksbank Ermstal-Alb,22
@@ -5706,8 +5238,6 @@ DE,Germany,66069104,GENODE61DAC,Spar- und Kreditbank -alt-,22
 DE,Germany,66069342,GENODE61KTH,Volksbank Krautheim -alt-,22
 DE,Germany,66070004,DEUTDESM660,Deutsche Bank,22
 DE,Germany,66070024,DEUTDEDB660,Deutsche Bank,22
-DE,Germany,66070213,DEUTDESMP12,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,66070224,DEUTDEDBP12,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,66080052,DRESDEFF660,Commerzbank vormals Dresdner Bank,22
 DE,Germany,66090800,GENODE61BBB,BBBank,22
 DE,Germany,66090900,GENODEF1P10,PSD Bank Karlsruhe-Neustadt,22
@@ -5813,8 +5343,6 @@ DE,Germany,68063479,GENODE61VOK,Raiffeisenbank Kaiserstuhl,22
 DE,Germany,68064222,GENODE61GUN,Raiffeisenbank im Breisgau,22
 DE,Germany,68070024,DEUTDEDBFRE,Deutsche Bank,22
 DE,Germany,68070030,DEUTDE6FXXX,Deutsche Bank,22
-DE,Germany,68070212,DEUTDE6FP11,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,68070224,DEUTDEDBP11,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,68080030,DRESDEFF680,Commerzbank vormals Dresdner Bank,22
 DE,Germany,68080031,DRESDEFFI44,Commerzbank vormals Dresdner Bank Zw Münsterstraße,22
 DE,Germany,68080085,DRESDEFFI62,"Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1",22
@@ -5886,10 +5414,8 @@ DE,Germany,70012000,CLABDEM1XXX,"UniCredit Family Financing Bank, Ndl der UniCre
 DE,Germany,70012300,VBANDEMMXXX,V-Bank,22
 DE,Germany,70012600,SUSKDEM1XXX,Südtiroler Sparkasse Niederlassung München,22
 DE,Germany,70012700,DEPDDEMMXXX,VZ VermögensZentrum Bank,22
-DE,Germany,70012900,FXBBDEM2XXX,"IBAN FIRST, Zweigniederlassung München",22
 DE,Germany,70013000,EBSGDEMXXXX,FNZ Bank,22
 DE,Germany,70013010,EFSGDEM1XXX,FNZ Bank,22
-DE,Germany,70013300,RZSTDEM2XXX,"Raiffeisen-Landesbank Steiermark, Niederlassung München",22
 DE,Germany,70013400,CSHHDE71XXX,IC Cash Services,22
 DE,Germany,70013500,HERZDEM1XXX,Bankhaus Herzogpark,22
 DE,Germany,70015000,TEZGDEB1XXX,transact Elektronische Zahlungssysteme,22
@@ -5903,7 +5429,6 @@ DE,Germany,70020500,BFSWDE33MUE,SozialBank,22
 DE,Germany,70020570,BFSWDE33MUE,SozialBank,22
 DE,Germany,70020800,BCITDEFFMUC,INTESA SANPAOLO,22
 DE,Germany,70021180,HYVEDEMM418,UniCredit Bank - HypoVereinsbank,22
-DE,Germany,70022424,SCABDEMMXXX,Scalable Capital Bank,22
 DE,Germany,70025175,HYVEDEMM643,UniCredit Bank - HypoVereinsbank,22
 DE,Germany,70030300,CHDBDEHHXXX,Bankhaus Reuschel & Co -alt-,22
 DE,Germany,70030400,MEFIDEMMXXX,Merck Finck A Quintet Private Bank,22
@@ -5929,8 +5454,6 @@ DE,Germany,70053070,BYLADEM1FFB,Sparkasse Fürstenfeldbruck,22
 DE,Germany,70054306,BYLADEM1WOR,Sparkasse Bad Tölz-Wolfratshausen,22
 DE,Germany,70070010,DEUTDEMMXXX,Deutsche Bank,22
 DE,Germany,70070024,DEUTDEDBMUC,Deutsche Bank,22
-DE,Germany,70070324,DEUTDEDBP16,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,70070362,DEUTDEMMP16,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,70080000,DRESDEFF700,Commerzbank vormals Dresdner Bank,22
 DE,Germany,70080056,DRESDEFF714,Commerzbank vormals Dresdner Bank Zw 56,22
 DE,Germany,70080057,DRESDEFF724,Commerzbank vormals Dresdner Bank Gf ZW 57,22
@@ -5951,7 +5474,6 @@ DE,Germany,70093200,GENODEF1STH,VR Bank Starnberg-Zugspitze,22
 DE,Germany,70093400,GENODEF1ISV,VR-Bank Ismaning Hallbergmoos Neufahrn,22
 DE,Germany,70110088,PBNKDEFFXXX,Postbank Ndl der Deutsche Bank,22
 DE,Germany,70110500,MHYPDEMMXXX,Münchener Hypothekenbank,22
-DE,Germany,70110570,MHYPDEMMSCA,Münchener Hypothekenbank,22
 DE,Germany,70120100,SBOSDEMXXXX,State Street Bank International,22
 DE,Germany,70120400,DABBDEMMXXX,BNP Paribas Niederlassung Deutschland,22
 DE,Germany,70120500,FMBKDEMMXXX,"CACEIS Bank, Germany Branch",22
@@ -6013,7 +5535,6 @@ DE,Germany,70169619,GENODEF1ZOR,Raiffeisenbank Zorneding -alt-,22
 DE,Germany,70169653,GENODEF1AIG,Raiffeisenbank Aiglsbach -alt-,22
 DE,Germany,70169693,GENODEF1RHT,Raiffeisenbank Hallertau,22
 DE,Germany,70190000,GENODEF1M01,Münchner Bank,22
-DE,Germany,70190010,GENODEF1M1Y,Münchner Bank,22
 DE,Germany,70220000,LFFBDEMMXXX,LfA Förderbank Bayern,22
 DE,Germany,70220200,BHFBDEFF700,BHF-BANK,22
 DE,Germany,70220300,BMWBDEMUXXX,BMW Bank,22
@@ -6100,8 +5621,6 @@ DE,Germany,72069736,GENODEF1BLT,Raiffeisenbank Schwaben Mitte,22
 DE,Germany,72069789,GENODEF1PFA,Raiffeisenbank Pfaffenhausen,22
 DE,Germany,72070001,DEUTDEMM720,Deutsche Bank,22
 DE,Germany,72070024,DEUTDEDB720,Deutsche Bank,22
-DE,Germany,72070324,DEUTDEDBP19,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,72070365,DEUTDEMMP19,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,72080001,DRESDEFF720,Commerzbank vormals Dresdner Bank,22
 DE,Germany,72090000,GENODEF1AUB,VR Bank Augsburg-Ostallgäu,22
 DE,Germany,72090500,GENODEF1S03,Sparda-Bank Augsburg,22
@@ -6128,8 +5647,6 @@ DE,Germany,72169812,GENODEF1GAH,Raiffeisenbank im Donautal,22
 DE,Germany,72169831,GENODEF1RBL,Raiffeisenbank Riedenburg-Lobsing -alt-,22
 DE,Germany,72170007,DEUTDEMM721,Deutsche Bank,22
 DE,Germany,72170024,DEUTDEDB721,Deutsche Bank,22
-DE,Germany,72170324,DEUTDEDBP17,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,72170363,DEUTDEMMP17,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,72180002,DRESDEFF721,Commerzbank vormals Dresdner Bank,22
 DE,Germany,72220074,HYVEDEMM255,UniCredit Bank - HypoVereinsbank,22
 DE,Germany,72223182,HYVEDEMM263,UniCredit Bank - HypoVereinsbank,22
@@ -6333,8 +5850,6 @@ DE,Germany,76069663,GENODEF1WBA,Raiffeisenbank Heilsbronn-Windsbach -alt-,22
 DE,Germany,76069669,GENODEF1ZIR,Raiffeisenbank Knoblauchsland-Bibertgrund,22
 DE,Germany,76070012,DEUTDEMM760,Deutsche Bank,22
 DE,Germany,76070024,DEUTDEDB760,Deutsche Bank,22
-DE,Germany,76070324,DEUTDEDBP15,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,76070361,DEUTDEMMP15,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,76080040,DRESDEFF760,Commerzbank vormals Dresdner Bank,22
 DE,Germany,76080053,DRESDEFFAGI,Commerzbank vormals Dresdner Bank Zw 53,22
 DE,Germany,76080055,DRESDEFFI25,Commerzbank vormals Dresdner Bank Zw 55,22
@@ -6461,8 +5976,6 @@ DE,Germany,79567531,GENODEF1ALZ,VR-Bank -alt-,22
 DE,Germany,79568518,GENODEF1HAC,Raiffeisenbank Haibach-Obernau,22
 DE,Germany,79570024,DEUTDEDB795,Deutsche Bank,22
 DE,Germany,79570051,DEUTDEFF795,Deutsche Bank,22
-DE,Germany,79570324,DEUTDEDBP18,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,79570364,DEUTDEFFS18,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,79580099,DRESDEFF795,Commerzbank vormals Dresdner Bank,22
 DE,Germany,79589402,DRESDEFFI47,Commerzbank vormals Dresdner Bank ITGK,22
 DE,Germany,79590000,GENODEF1AB2,Volksbank Aschaffenburg -alt-,22
@@ -6497,7 +6010,6 @@ DE,Germany,80093784,GENODEF1HAL,"Volksbank Halle, Saale",22
 DE,Germany,80550101,NOLADE21WBL,Sparkasse Wittenberg,22
 DE,Germany,80550200,NOLADE21ZER,Kreissparkasse Anhalt-Zerbst -alt-,22
 DE,Germany,81000000,MARKDEF1810,Bundesbank,22
-DE,Germany,81010400,NOLADE21LSA,Investitionsbank Sachsen-Anhalt,22
 DE,Germany,81020500,BFSWDE33MAG,SozialBank,22
 DE,Germany,81040000,COBADEFFXXX,Commerzbank,22
 DE,Germany,81050555,NOLADE21SDL,Kreissparkasse Stendal,22
@@ -6537,8 +6049,6 @@ DE,Germany,82064188,GENODEF1WE1,VR Bank Weimar,22
 DE,Germany,82064228,ERFBDE8EXXX,Erfurter Bank -alt-,22
 DE,Germany,82070000,DEUTDE8EXXX,Deutsche Bank,22
 DE,Germany,82070024,DEUTDEDBERF,Deutsche Bank,22
-DE,Germany,82070324,DEUTDEDBP20,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,82070366,DEUTDE8EP20,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,82080000,DRESDEFF827,Commerzbank vormals Dresdner Bank,22
 DE,Germany,82094004,GENODEF1HIG,Volksbank Heiligenstadt -alt-,22
 DE,Germany,82094054,GENODEF1NDS,Nordthüringer Volksbank -alt-,22
@@ -6599,7 +6109,6 @@ DE,Germany,86010090,PBNKDEFFXXX,Postbank Ndl der Deutsche Bank,22
 DE,Germany,86010424,AARBDE5W860,Aareal Bank ehem. Filiale Leipzig,22
 DE,Germany,86020086,HYVEDEMM495,UniCredit Bank - HypoVereinsbank,22
 DE,Germany,86020500,BFSWDE33LPZ,SozialBank,22
-DE,Germany,86021000,AIPGDE82XXX,aifinyo payments,22
 DE,Germany,86033300,SCFBDE33XXX,Openbank Deutschland,22
 DE,Germany,86040000,COBADEFFXXX,Commerzbank,22
 DE,Germany,86040060,COBADEFFXXX,Commerzbank CC,22
@@ -6616,8 +6125,6 @@ DE,Germany,86065483,GENODEF1GMR,Raiffeisenbank Grimma,22
 DE,Germany,86069070,GENODEF1TGB,Raiffeisenbank -alt-,22
 DE,Germany,86070000,DEUTDE8LXXX,Deutsche Bank,22
 DE,Germany,86070024,DEUTDEDBLEG,Deutsche Bank,22
-DE,Germany,86070407,DEUTDE8LP37,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,86070424,DEUTDEDBP37,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,86080000,DRESDEFF860,Commerzbank vormals Dresdner Bank,22
 DE,Germany,86080055,DRESDEFF862,Commerzbank vormals Dresdner Bank Zw 55,22
 DE,Germany,86080057,DRESDEFF867,Commerzbank vormals Dresdner Bank Gf ZW 57,22
@@ -6642,8 +6149,6 @@ DE,Germany,87069075,GENODEF1MBG,Volksbank Mittleres Erzgebirge,22
 DE,Germany,87069077,GENODEF1BST,Vereinigte Raiffeisenbank Burgstädt,22
 DE,Germany,87070000,DEUTDE8CXXX,Deutsche Bank,22
 DE,Germany,87070024,DEUTDEDBCHE,Deutsche Bank,22
-DE,Germany,87070406,DEUTDE8CP36,Postbank/DSL Ndl der Deutsche Bank,22
-DE,Germany,87070424,DEUTDEDBP36,Postbank/DSL Ndl der Deutsche Bank,22
 DE,Germany,87080000,DRESDEFF870,Commerzbank vormals Dresdner Bank,22
 DE,Germany,87095824,GENODEF1PL1,Volksbank Vogtland-Saale-Orla,22
 DE,Germany,87095899,GENODEF1EXT,Volksbank Vogtland GAA,22
@@ -20554,19 +20059,6 @@ LI,Liechtenstein,08806,SERBLI22XXX,Kaiser Partner Privatbank AG,21
 LI,Liechtenstein,08810,BLFLLI2XXXX,LGT Bank AG,21
 LI,Liechtenstein,08811,BFRILI22XXX,Bank Frick AG,21
 LI,Liechtenstein,08812,VOAGLI22XXX,SIGMA Bank AG,21
-LI,Liechtenstein,30111,AMNSLI22XXX,Amnis Europe AG,21
-LI,Liechtenstein,30172,LILALI2XXXX,Liechtensteinische Landesbank Aktiengesellschaft,21
-LI,Liechtenstein,30173,NBANLI22XXX,Neue Bank AG,21
-LI,Liechtenstein,30174,VPBVLI2XXXX,VP Bank AG,21
-LI,Liechtenstein,30175,BLFLLI2XXXX,LGT Bank AG,21
-LI,Liechtenstein,30288,HYIBLI22XXX,BENDURA BANK AG,21
-LI,Liechtenstein,30289,SERBLI22XXX,Kaiser Partner Privatbank AG,21
-LI,Liechtenstein,30290,BFRILI22XXX,Bank Frick AG,21
-LI,Liechtenstein,30291,VOAGLI22XXX,SIGMA Bank AG,21
-LI,Liechtenstein,83047,AMNSLI22XXX,Amnis Europe AG,21
-LI,Liechtenstein,83049,BCIRLI22XXX,Banking Circle (Liechtenstein) AG,21
-LI,Liechtenstein,83053,,RMS Sicherheits-Anstalt,21
-LI,Liechtenstein,83061,CLNCLI22XXX,Celsion Bank AG,21
 LT,Lithuania,00758,LIABLT2XSNO,Lietuvos banko sąskaita BAB SNORAS įmokoms surinkti,20
 LT,Lithuania,10100,LIABLT2XXXX,Lietuvos bankas,20
 LT,Lithuania,10101,LIABLT2XXXX,Lietuvos banko Kauno skyrius,20
@@ -20863,12 +20355,10 @@ LU,Luxembourg,009,CCRALULL,Banque Raiffeisen S.C.,20
 LU,Luxembourg,014,CELLLULL,ING Luxembourg S.A.,20
 LU,Luxembourg,025,BMECLULL,Banque BCP S.A.,20
 LU,Luxembourg,032,BAERLULU,Bank Julius Baer Europe S.A.,20
-LU,Luxembourg,033,BSCHLULL,Banco Santander S.A.,20
 LU,Luxembourg,034,CITILULX,Citibank Europe plc Luxembourg Branch,20
 LU,Luxembourg,036,DEUTLULL,Deutsche Bank Luxembourg S.A.,20
 LU,Luxembourg,038,DBSALULL,Union Bancaire Privée S.A.,20
 LU,Luxembourg,058,WBWCLULL,European Depositary Bank S.A.,20
-LU,Luxembourg,060,SGABLU2S,Société Générale Luxembourg S.A.,20
 LU,Luxembourg,061,SGABLULL,Société Générale Luxembourg S.A.,20
 LU,Luxembourg,062,HAUKLULL,Hauck & Aufhäuser Privatbank AG,20
 LU,Luxembourg,064,ESSELULL,Skandinaviska Enskilda Banken AB S.A.,20
@@ -20915,12 +20405,10 @@ LU,Luxembourg,250,CHASLULW,J.P. Morgan Bank Luxembourg S.A.,20
 LU,Luxembourg,259,DEUTLULB,Deutsche Bank AG S.A.,20
 LU,Luxembourg,265,PBNKLULL,Deutsche Bank AG S.A.,20
 LU,Luxembourg,281,FISPLU22,FIS Privatbank S.A.,20
-LU,Luxembourg,284,HAVLLULL,Banque Havilland S.A.,20
 LU,Luxembourg,289,CEDELULL,Clearstream Banking S.A.,20
 LU,Luxembourg,301,EFGBLULX,EFG Bank S.A.,20
 LU,Luxembourg,305,DELELULL,Delen Private Bank Luxembourg S.A.,20
 LU,Luxembourg,308,FIBKLULL,Fideuram Bank S.A.,20
-LU,Luxembourg,309,FIBKLULLFPB,Fideuram Bank S.A.,20
 LU,Luxembourg,316,ICBKLULL,Industrial and Commercial Bank of China Ltd S.A.,20
 LU,Luxembourg,318,HAVLLULL,Banque Havilland S.A.,20
 LU,Luxembourg,324,SWQBLULL,Swissquote Bank Europe S.A.,20
@@ -20934,7 +20422,6 @@ LU,Luxembourg,348,ICBKLULU,Industrial and Commercial Bank of China S.A.,20
 LU,Luxembourg,349,CITCLULL,Citco Bank Nederland N.V.,20
 LU,Luxembourg,350,CBPXLULL,Compagnie de Banque Privée Quilvest S.A.,20
 LU,Luxembourg,351,PPLXLULL,PayPal S.A.,20
-LU,Luxembourg,359,KEYTLULL,Keytrade Bank Luxembourg S.A.,20
 LU,Luxembourg,360,BACALULL,Andbank Luxembourg S.A.,20
 LU,Luxembourg,361,BBPPLULL,Banque de Patrimoines Privés S.A.,20
 LU,Luxembourg,365,BESCLULL,Novo Banco S.A.,20
@@ -20948,28 +20435,12 @@ LU,Luxembourg,381,MIRALULL,Mirabaud S.A.,20
 LU,Luxembourg,386,ALLFLULL,Allfunds Bank International S.A.,20
 LU,Luxembourg,391,CMBCLULL,China Merchants Bank Co S.A.,20
 LU,Luxembourg,400,RRBALULL,RiverBank S.A.,20
-LU,Luxembourg,404,HYVELULL,UniCredit Bank AG Luxembourg Branch,20
-LU,Luxembourg,408,BCIRLULL,Banking Circle S.A.,20
-LU,Luxembourg,409,BARCLULL,Barclays Bank Ireland plc,20
-LU,Luxembourg,411,CAIXLULL,CaixaBank Wealth Management Luxembourg S.A.,20
-LU,Luxembourg,413,CRBALULL,Alpha Bank S.A.,20
-LU,Luxembourg,414,USBKLU2L,Elavon Financial Services DAC S.A.,20
-LU,Luxembourg,420,ABOCLULL,Agricultural Bank of China (Luxembourg) S.A.,20
-LU,Luxembourg,421,EVERLULX,China Everbright Bank (Europe) S.A.,20
-LU,Luxembourg,422,ABOCLULB,"Agricultural Bank of China, Luxembourg Branch",20
-LU,Luxembourg,423,INVLLULLXXX,"Banco Inversis S.A., Luxembourg branch",20
-LU,Luxembourg,619,SOXALULL,Sogexia S.A.,20
-LU,Luxembourg,625,PANXLUL2,UnifiedPost Payments S.A.,20
 LU,Luxembourg,700,EWUBLUL2,East,20
 LU,Luxembourg,701,RAPSLUL1,Rakuten Europe Bank S.A.,20
 LU,Luxembourg,705,KBLXLULL,Quintet Private Bank S.A.,20
-LU,Luxembourg,713,IBNXLULM,iBAN,20
-LU,Luxembourg,777,MUGCLULX,Mitsubishi UFJ Investor Services S.A.,20
-LU,Luxembourg,802,SATYLUL1SRV,Satispay Europe S.A.,20
 LU,Luxembourg,805,MAGYLUL1,MANGOPAY S.A.,20
 LU,Luxembourg,807,SSWILUL1,SnapSwap International S.A.,20
 LU,Luxembourg,810,SATYLUL1XXX,Satispay Europe S.A.,20
-LU,Luxembourg,813,VPAYLUL2,Viva Payment Services S.A.,20
 LU,Luxembourg,998,BEILLULL,Banque européenne d'épargne S.A.,20
 LU,Luxembourg,999,BCLXLULL,Banque centrale du Luxembourg,20
 LV,Latvia,AIZK,AIZKLV22XXX,"ABLV BANK, AS IN LIQUIDATION",21
@@ -21280,12 +20751,10 @@ NL,Netherlands,ABNA,ABNANL2A,ABN AMRO BANK N.V.,18
 NL,Netherlands,ABNC,ABNCNL2A,ABN AMRO Clearing Bank N.V.,18
 NL,Netherlands,ADYB,ADYBNL2A,ADYEN,18
 NL,Netherlands,AEGO,AEGONL2U,AEGON BANK,18
-NL,Netherlands,AINH,AINHNL22,AIRWALLEX (NETHERLANDS) B.V.,18
 NL,Netherlands,ANDL,ANDLNL2A,ANADOLUBANK,18
 NL,Netherlands,ARBN,ARBNNL22,ACHMEA BANK,18
 NL,Netherlands,ARSN,ARSNNL21,ARGENTA SPAARBANK,18
 NL,Netherlands,ASNB,ASNBNL21,ASN BANK,18
-NL,Netherlands,BARC,BARCNL22,BARCLAYS BANK,18
 NL,Netherlands,BCDM,BCDMNL22,BANQUE CHAABI DU MAROC * (langdurig) inactief sinds 31 december 2020,18
 NL,Netherlands,BCIT,BCITNL2A,INTESA SANPAOLO,18
 NL,Netherlands,BICK,BICKNL2A,BINCKBANK,18
@@ -21301,40 +20770,24 @@ NL,Netherlands,BNPA,BNPANL2A,BNP PARIBAS,18
 NL,Netherlands,BOFA,BOFANLNX,BANK OF AMERICA,18
 NL,Netherlands,BOFS,BOFSNL21002,"BANK OF SCOTLAND, Amsterdam",18
 NL,Netherlands,BOTK,BOTKNL2X,MUFG BANK,18
-NL,Netherlands,BUKK,BUKKNL22,BUCKAROO B.V.,18
 NL,Netherlands,BUNQ,BUNQNL2A,BUNQ,18
-NL,Netherlands,BUUT,BUUTNL2A,ABN AMRO BANK N.V.,18
-NL,Netherlands,CCBV,CCBVNL2A,CURRENCYCLOUD B.V.,18
-NL,Netherlands,CEPA,CEPANL2A,"CAISSE D'EPARGNE, Netherlands",18
 NL,Netherlands,CHAS,CHASNL2X,JPMORGAN CHASE,18
 NL,Netherlands,CITC,CITCNL2A,CITCO BANK,18
 NL,Netherlands,CITI,CITINL2X,CITIBANK INTERNATIONAL,18
-NL,Netherlands,CLRB,CLRBNL2A,CLEARBANK EUROPE N.V.,18
 NL,Netherlands,COBA,COBANL2X,COMMERZBANK,18
-NL,Netherlands,DELE,DELENL22,DELEN PRIVATE BANK NEDERLAND,18
 NL,Netherlands,DEUT,DEUTNL2A,DEUTSCHE BANK (bij alle SEPA-transacties),18
 NL,Netherlands,DHBN,DHBNNL2R,DEMIR-HALK BANK,18
 NL,Netherlands,DNIB,DNIBNL2G,NIBC,18
-NL,Netherlands,EBPB,EBPBNL22,EBURY NETHERLANDS (Brussel entiteit),18
 NL,Netherlands,EBUR,EBURNL21,EBURY NETHERLANDS (Londen entiteit),18
 NL,Netherlands,FBHL,FBHLNL2A,NEXENT BANK N.V.,18
-NL,Netherlands,FIRH,FIRHNL22,FIAT REPUBLIC NETHERLANDS B.V.,18
 NL,Netherlands,FLOR,FLORNL2A,DE NEDERLANDSCHE BANK,18
-NL,Netherlands,FNOM,FNOMNL22,FINOM Payments B.V.,18
 NL,Netherlands,FRNX,FRNXNL2A,FRANX,18
-NL,Netherlands,FROM,FROMNL2A,FROMENTY AND CUSTARD E-COMMERCE,18
 NL,Netherlands,FVLB,FVLBNL22,VAN LANSCHOT,18
-NL,Netherlands,FXBB,FXBBNL22,IBANFIRST,18
 NL,Netherlands,GILL,GILLNL2A,INSINGERGILISSEN,18
-NL,Netherlands,GOLD,GOLDNL2A,"GOLDMAN SACHS BANK EUROPE SE, AMSTERDAM BRANCH",18
 NL,Netherlands,HAND,HANDNL2A,SVENSKA HANDELSBANKEN,18
-NL,Netherlands,HIFX,HIFXNL2A,XE EUROPE BV,18
-NL,Netherlands,HLGT,HLGTNL22,HILLGATE FINANCE B.V.,18
 NL,Netherlands,HSBC,HSBCNL2A,HSBC BANK,18
-NL,Netherlands,HUSH,HUSHNL2A,HUSHPAY,18
 NL,Netherlands,ICBC,ICBCNL2A,MEGA INTERNATIONAL COMMERCIAL BANK,18
 NL,Netherlands,ICBK,ICBKNL2A,INDUSTRIAL & COMMERCIAL BANK OF CHINA,18
-NL,Netherlands,ICEP,ICEPNL21,ICEPAY,18
 NL,Netherlands,INGB,INGBNL2A,ING,18
 NL,Netherlands,ISAE,ISAENL2A,"CACEIS BANK, Netherlands Branch",18
 NL,Netherlands,ISBK,ISBKNL2A,ISBANK,18
@@ -21345,32 +20798,16 @@ NL,Netherlands,KRED,KREDNL2X,KBC BANK,18
 NL,Netherlands,LOYD,LOYDNL2A,LLOYDS TSB BANK,18
 NL,Netherlands,LPLN,LPLNNL2F,LEASEPLAN CORPORATION,18
 NL,Netherlands,MHCB,MHCBNL2A,MIZUHO BANK EUROPE NV,18
-NL,Netherlands,MLLE,MLLENL2A,MOLLIE B.V.,18
-NL,Netherlands,MODR,MODRNL22,MODULR FINANCE B.V.,18
 NL,Netherlands,NNBA,NNBANL2G,NATIONALE-NEDERLANDEN BANK,18
 NL,Netherlands,NWAB,NWABNL2G,NEDERLANDSE WATERSCHAPSBANK,18
-NL,Netherlands,PANX,PANXNL22,UNIFIEDPOST PAYMENTS,18
 NL,Netherlands,PCBC,PCBCNL2A,"CHINA CONSTRUCTION BANK, Amsterdam Branch",18
-NL,Netherlands,PNOW,PNOWNL2A,PAY NOW,18
-NL,Netherlands,PYNL,PYNLNL22,PAY.NL,18
-NL,Netherlands,QNTO,QNTONL22,QONTO,18
 NL,Netherlands,RABO,RABONL2U,RABOBANK,18
 NL,Netherlands,RBRB,RBRBNL21,REGIOBANK,18
-NL,Netherlands,REVO,REVONL22,REVOLUT BANK UAB,18
-NL,Netherlands,SBOS,SBOSNL2A,STATE STREET BANK INTERNATIONAL GbmH,18
 NL,Netherlands,SNSB,SNSBNL2A,ASN BANK,18
 NL,Netherlands,SOGE,SOGENL2A,SOCIETE GENERALE,18
-NL,Netherlands,SWNB,SWNBNL22,SWAN,18
-NL,Netherlands,TRBK,TRBKNL2A,"TRADE REPUBLIC BANK GmbH, Netherlands Branch",18
 NL,Netherlands,TRIO,TRIONL2U,TRIODOS BANK,18
 NL,Netherlands,UGBI,UGBINL2A,GARANTIBANK INTERNATIONAL,18
 NL,Netherlands,VOWA,VOWANL21,VOLKSWAGEN BANK,18
-NL,Netherlands,VPAY,VPAYNL22,VIVA PAYMENT SERVICES S.A.,18
-NL,Netherlands,VTPS,VTPSNL2R,VITESSE PSP,18
-NL,Netherlands,VVID,VVIDNL22,"VIVID MONEY SA, Netherlands Branch",18
-NL,Netherlands,WOFT,WOFTNL22,WORLD FIRST NETHERLANDS B.V.,18
-NL,Netherlands,YABN,,YABANDPAY B.V.,18
-NL,Netherlands,YOUR,YOURNL2A,YOURSAFE B.V.,18
 NL,Netherlands,ZWLB,ZWLBNL21,VOLKSBANK N.V. ( ex ZWITSERLEVENBANK),18
 NO,Norway,0500,DNBANOKK,DNB Bank ASA,15
 NO,Norway,0519,DNBANOKK,DNB Bank ASA,15
