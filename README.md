@@ -1,13 +1,11 @@
 # fakeiban
 
-A public IBAN bank-code dataset and a tiny FastAPI service that generates mod-97-valid test IBANs (with a matching random address) from it.
+A public IBAN bank-code dataset and a tiny FastAPI service that generates mod-97-valid test IBANs from it.
 
 ## What it is
 
-- **Datasets**
-  - [`bank_data.json`](./bank_data.json) — real bank records across 61 countries, grouped by country (also available as [`bank_data.csv`](./bank_data.csv)).
-  - [`address_data.json`](./address_data.json) — real `(city, region, postcode)` tuples (from GeoNames) plus street names + phone format for 42 of those countries.
-- **API** — [`main.py`](./main.py) (endpoints) + [`iban.py`](./iban.py) (`IBANGenerator`) + [`address.py`](./address.py) (`AddressGenerator`). FastAPI returns a freshly-generated IBAN plus a plausible address for any supported country.
+- **Dataset** — [`bank_data.csv`](./bank_data.csv) — real bank records across 63 countries, grouped by country.
+- **API** — [`main.py`](./main.py) (endpoints) + [`iban.py`](./iban.py) (`IBANGenerator`). FastAPI returns a freshly-generated IBAN for any supported country.
 
 ## Quickstart
 
@@ -37,18 +35,9 @@ Example response (illustrative — the API generates a new IBAN each call):
   "iban":         "DE89370400440532013000",
   "bank_code":    "37040044",
   "bank_name":    "Commerzbank",
-  "swift_bic":    "COBADEFFXXX",
-  "address": {
-    "street":   "742 Hauptstraße",
-    "city":     "Munich",
-    "region":   "Bavaria",
-    "postcode": "80331",
-    "phone":    "+49-89-1234567"
-  }
+  "swift_bic":    "COBADEFFXXX"
 }
 ```
-
-`address` is `null` for the 15 IBAN countries without address data.
 
 ## Dataset schema (`bank_data.json`)
 
@@ -97,18 +86,18 @@ AD, AE, AT, AZ, BA, BE, BG, BH, CH, CR, CY, CZ, DE, DK, DO, EE, ES, FI, FR, GB, 
 | ------ | ---------------------- | ---------------------------------------------------- |
 | GET    | `/`                    | Service metadata (version, dataset stats)            |
 | GET    | `/countries`           | List of 61 supported countries                       |
-| GET    | `/iban?country={code}` | Generate one mod-97-valid IBAN (+ address) for the country |
+| GET    | `/iban?country={code}` | Generate one mod-97-valid IBAN for the country       |
+| GET    | `/{code}`              | Simple HTML page showing a generated IBAN (e.g. `/de`) |
 
 ## Hosting & CDN
 
 The data is served by jsDelivr straight from GitHub, so no auth, account, or rate limits for normal use.
 
 ```
-https://cdn.jsdelivr.net/gh/blkblssm/fakeiban@main/bank_data.json
-https://cdn.jsdelivr.net/gh/blkblssm/fakeiban@main/address_data.json
+https://cdn.jsdelivr.net/gh/blkblssm/fakeiban@main/bank_data.csv
 ```
 
-The FastAPI app fetches these at cold start, so deployments need no environment variables or bundled data files.
+The FastAPI app fetches this at cold start, so deployments need no environment variables or bundled data files.
 
 ## Hosted API
 
@@ -121,9 +110,8 @@ curl https://fakeiban.vercel.app/countries
 
 ## Caveats
 
-- **Test data only** — bank codes are real, but account numbers and addresses are randomly generated.
+- **Test data only** — bank codes are real, but account numbers are randomly generated.
 - **Cannot send or receive real money** — IBANs validate structurally (mod-97) but are not registered to anyone.
-- **Addresses** — the `city`, `region`, and `postcode` are a real, consistent combination (sourced from GeoNames); the street is a real street name for the country with a random house number, so it is not guaranteed to exist at that exact postcode. Address data covers 42 countries; the other 19 (no free postal data) return `"address": null`.
 - **Italian IBANs** include a CIN check letter; the API computes it via the official algorithm automatically.
 - **Snapshot, not live** — the dataset is a point-in-time export; banks may merge, rename, or change BICs.
 
