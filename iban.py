@@ -227,6 +227,31 @@ class IBANGenerator:
         r = sum(weights[i % 3] * int(c) for i, c in enumerate(reversed(body))) % 10
         return "0" if r == 0 else str(10 - r)
 
+    @staticmethod
+    def hu_check(digits: str) -> str:
+        """Hungarian check digit: weights 9,7,3,1 (repeating) mod 10.
+
+        Applied twice per BBAN — once over bank+branch, once over the account.
+        Always yields a single digit, so generation is deterministically valid.
+        """
+        weights = (9, 7, 3, 1)
+        s = sum(int(c) * weights[i % 4] for i, c in enumerate(digits))
+        return str((10 - s % 10) % 10)
+
+    @staticmethod
+    def hr_check(body: str) -> str:
+        """Croatian account check digit: ISO 7064 MOD 11,10 over the account body.
+
+        Always yields a single digit (0-9), so no retry is needed.
+        """
+        r = 10
+        for c in body:
+            r = (r + int(c)) % 10
+            if r == 0:
+                r = 10
+            r = (r * 2) % 11
+        return str((11 - r) % 10)
+
     def wmod11_fill(self, weights: list[int]) -> str:
         """Random digit string of len(weights) whose weighted sum is 0 mod 11.
 
@@ -356,6 +381,21 @@ class IBANGenerator:
         account = self.wmod11_fill([6, 3, 7, 9, 10, 5, 8, 4, 2, 1])
         return bank + prefix + account, bank
 
+    def bban_hu(self, bank_code: str) -> tuple[str, str]:
+        # HU: 3!n bank 4!n branch 1!n check(bank+branch) 15!n account 1!n check(account)
+        bank = bank_code.rjust(3, "0")[-3:]
+        branch = self.rand_digits(4)
+        cd1 = self.hu_check(bank + branch)
+        account = self.rand_digits(15)
+        cd2 = self.hu_check(account)
+        return bank + branch + cd1 + account + cd2, bank
+
+    def bban_hr(self, bank_code: str) -> tuple[str, str]:
+        # HR: 7!n bank (from directory, already check-valid) 9!n account 1!n check
+        bank = bank_code.rjust(7, "0")[-7:]
+        body = self.rand_digits(9)
+        return bank + body + self.hr_check(body), bank
+
     def bban_is(self, bank_code: str) -> tuple[str, str]:
         # IS: 2!n bank 2!n branch 2!n type 6!n account 10!n kennitala (mod-11 checked)
         bank = bank_code.rjust(2, "0")[-2:]
@@ -370,4 +410,5 @@ class IBANGenerator:
         "BR": bban_br,
         "BA": bban_ba, "ME": bban_me_rs, "RS": bban_me_rs, "SI": bban_si,
         "EE": bban_ee, "CZ": bban_cz_sk, "SK": bban_cz_sk, "IS": bban_is,
+        "HU": bban_hu, "HR": bban_hr,
     }
