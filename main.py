@@ -17,8 +17,8 @@ from fastapi.responses import HTMLResponse, JSONResponse
 
 from iban import IBANGenerator, UnknownCountryError
 
-CDN = "https://cdn.jsdelivr.net/gh/blkblossom/fakeiban@main"
-BANK_CSV_URL = f"{CDN}/bank_data.csv"
+CDN = "https://cdn.jsdelivr.net/gh/heyblakee/fakeiban@main"
+BANK_CSV_URL = f"{CDN}/bank_data_valid.csv"
 
 iban_generator = IBANGenerator(BANK_CSV_URL, fetch_timeout=30)
 
